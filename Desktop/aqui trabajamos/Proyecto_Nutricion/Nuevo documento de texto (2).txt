@@ -1,0 +1,42 @@
+📋 Comandos Rápidos para mi Proyecto Nutricional
+🚀 1. Para encender el sistema (Verlo en el navegador)
+Escribe esto en la terminal para abrir tu aplicación:
+
+Bash
+streamlit run app.py
+🛡️ 2. Para recuperar archivos borrados (La "Máquina del Tiempo")
+Si borraste algo por error y quieres que regrese desde GitHub:
+
+Bash
+git checkout .
+📦 3. Para instalar las herramientas (Si cambias de carpeta)
+Si te salen errores de "Module not found", pega esto en la terminal:
+
+Bash
+pip install streamlit pandas openpyxl
+☁️ 4. Para guardar mis avances en la Nube (GitHub)
+Haz estos 3 pasos en orden cuando termines de programar algo nuevo:
+
+Paso A: Avisar que hay cambios
+
+Bash
+git add .
+Paso B: Ponerle nombre al avance (puedes cambiar el texto entre comillas)
+
+Bash
+git commit -m "Actualización del sistema nutricional"
+Paso C: Subir a internet
+
+Bash
+git push
+🔧 5. Trucos de teclado en VS Code (Atajos)
+Ctrl + ñ : Abrir o cerrar la terminal (donde escribes los códigos).
+
+Ctrl + S : Guardar tus cambios (el navegador se actualizará solo).
+
+Ctrl + Z : Deshacer lo último que escribiste.
+
+Ctrl + Shift + P : Abrir el buscador de funciones (para elegir el "Interpreter").
+
+💡 Consejo de Jaime a Jaime:
+Si el sistema no arranca, lo primero que debo revisar es que en la esquina inferior derecha de VS Code diga Python 3.12.3 ('.venv': venv). Si no dice eso, presiona Ctrl + Shift + P y busca "Select Interpreter".

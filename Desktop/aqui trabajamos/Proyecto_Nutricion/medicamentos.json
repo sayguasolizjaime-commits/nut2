@@ -1,0 +1,268 @@
+{
+  "vademecum": [
+    {
+      "quimico": "Haloperidol",
+      "categoria": "Antipsicótico",
+      "comercial": ["Haldol", "Sigaperidol"],
+      "interaccion_farma_nutri": "La soya aumenta los niveles plasmáticos del fármaco, potenciando efectos adversos. Puede disminuir la absorción si no se controla el tipo de dieta.",
+      "alimentos_a_evitar": "Productos derivados de la soya (leche de soya, tofu, lecitina).",
+      "recomendacion": "Monitorear signos extrapiramidales si el paciente consume soya frecuentemente."
+    },
+    {
+      "quimico": "Biperideno",
+      "categoria": "Antiparkinsoniano",
+      "comercial": ["Akineton"],
+      "interaccion_farma_nutri": "Su absorción y tolerancia mejoran con la presencia de alimentos.",
+      "alimentos_a_evitar": "Evitar la administración en ayunas para reducir mareos.",
+      "recomendacion": "Administrar estrictamente con las comidas principales."
+    },
+    {
+      "quimico": "Levomepromazina",
+      "categoria": "Antipsicótico / Sedante",
+      "comercial": ["Sinogan"],
+      "interaccion_farma_nutri": "Altamente irritante para la mucosa gástrica si se toma solo.",
+      "alimentos_a_evitar": "Ayuno prolongado durante la toma del medicamento.",
+      "recomendacion": "Administrar junto con alimentos para disminuir la irritación gástrica y mejorar la adherencia."
+    },
+    {
+      "quimico": "Metformina",
+      "comercial": ["Glucophage", "Dianben", "Metfor", "Bagomet", "Glicemex"],
+      "categoria": "Antidiabético",
+      "interaccion_farma_nutri": "Uso crónico reduce la absorción de Vitamina B12 y Ácido Fólico.",
+      "alimentos_a_evitar": "Alcohol (riesgo de acidosis láctica) y exceso de carbohidratos simples.",
+      "recomendacion": "Tomar con las comidas para reducir efectos gastrointestinales. Monitorear niveles de B12."
+    },
+    {
+      "quimico": "Furosemida",
+      "comercial": ["Lasix", "Nuriban", "Edemid"],
+      "categoria": "Diurético de asa",
+      "interaccion_farma_nutri": "Aumenta la excreción urinaria de Potasio (K), Magnesio (Mg), Calcio (Ca) y Sodio (Na).",
+      "alimentos_a_evitar": "Regaliz natural y consumo excesivo de sodio (sal).",
+      "recomendacion": "Aumentar consumo de fuentes de potasio (palta, plátano, espinaca)."
+    },
+    {
+      "quimico": "Omeprazol / Esomeprazol",
+      "comercial": ["Losec", "Nexium", "Gastroprazol", "Ulcidex"],
+      "categoria": "Antiulceroso (IBP)",
+      "interaccion_farma_nutri": "La hipoclorhidria reduce absorción de Hierro, Calcio, Magnesio y B12.",
+      "alimentos_a_evitar": "Té, café y fitatos (inhiben más la absorción de hierro).",
+      "recomendacion": "Evaluar suplementación de Magnesio en uso mayor a 1 año. No tomar con suplementos minerales."
+    },
+    {
+      "quimico": "Atorvastatina / Simvastatina",
+      "comercial": ["Lipitor", "Normalip", "Zocor", "Vytorin", "Storvas"],
+      "categoria": "Hipolipemiante",
+      "interaccion_farma_nutri": "El jugo de pomelo inhibe el citocromo P450, aumentando niveles del fármaco (toxicidad).",
+      "alimentos_a_evitar": "Pomelo (Toronja) en todas sus formas.",
+      "recomendacion": "Evitar consumo de pomelo. Precaución con suplementos de levadura de arroz rojo."
+    },
+    {
+      "quimico": "Prednisona / Dexametasona",
+      "comercial": ["Meticorten", "Cortipyren", "Decadron", "Dexamet"],
+      "categoria": "Corticoide",
+      "interaccion_farma_nutri": "Aumenta la excreción de Calcio y Zinc. Eleva la glucosa en sangre (hiperglucemia).",
+      "alimentos_a_evitar": "Sal (Sodio) y azúcares refinados.",
+      "recomendacion": "Dieta hiposódica. Aumentar aporte de Calcio y Vitamina D."
+    },
+    {
+      "quimico": "Warfarina",
+      "comercial": ["Coumadin", "Circulet"],
+      "categoria": "Anticoagulante",
+      "interaccion_farma_nutri": "Alimentos ricos en Vitamina K antagonizan su efecto anticoagulante.",
+      "alimentos_a_evitar": "Cebolla (en exceso), Ajo, Brócoli, Espinaca y Coliflor.",
+      "recomendacion": "Mantener ingesta de Vitamina K CONSTANTE. Evitar cambios bruscos en vegetales verdes."
+    },
+    {
+      "quimico": "Espironolactona",
+      "comercial": ["Aldactone", "Moduretic"],
+      "categoria": "Diurético ahorrador de potasio",
+      "interaccion_farma_nutri": "Riesgo elevado de hiperpotasemia.",
+      "alimentos_a_evitar": "Sustitutos de sal (cloruro de potasio), plátano y naranja en exceso.",
+      "recomendacion": "Controlar el consumo de alimentos muy ricos en potasio."
+    },
+    {
+      "quimico": "Levotiroxina",
+      "comercial": ["Euthyrox", "Synthroid", "T4", "Levox"],
+      "categoria": "Hormona Tiroidea",
+      "interaccion_farma_nutri": "Fibra, calcio, café y soja reducen su absorción drásticamente.",
+      "alimentos_a_evitar": "Soja, nueces, café y salvado de trigo inmediatamente después de la toma.",
+      "recomendacion": "Ayuno estricto. Tomar solo con agua simple 30-60 min antes del desayuno."
+    },
+    {
+      "quimico": "Losartán / Enalapril",
+      "comercial": ["Cozaar", "Lotrial", "Renitec", "Presartan"],
+      "categoria": "Antihipertensivo",
+      "interaccion_farma_nutri": "Puede aumentar los niveles de potasio sérico.",
+      "alimentos_a_evitar": "Sustitutos de sal con potasio y regaliz.",
+      "recomendacion": "No usar suplementos de potasio sin supervisión."
+    },
+    {
+      "quimico": "Alendronato",
+      "comercial": ["Fosamax", "Oseto70", "Alenat"],
+      "categoria": "Bifosfonato",
+      "interaccion_farma_nutri": "Alimentos y bebidas impiden su absorción casi totalmente.",
+      "alimentos_a_evitar": "Cualquier alimento, café, jugo o leche simultáneo a la toma.",
+      "recomendacion": "Tomar al despertar con agua pura y esperar 30 minutos para desayunar."
+    },
+    {
+      "quimico": "Ciprofloxacina",
+      "comercial": ["Cipro", "Bactocin", "Urobacid"],
+      "categoria": "Antibiótico",
+      "interaccion_farma_nutri": "Lácteos y minerales (Ca, Fe, Mg) quelan el antibiótico.",
+      "alimentos_a_evitar": "Leche, yogur, queso y jugos fortificados con calcio.",
+      "recomendacion": "Separar la toma de lácteos por al menos 2 horas."
+    },
+    {
+      "quimico": "Fluoxetina / Sertralina",
+      "comercial": ["Prozac", "Zoloft", "Dominium", "Ansietil"],
+      "categoria": "Antidepresivo",
+      "interaccion_farma_nutri": "Interacción con alcohol y riesgo de cambios de peso.",
+      "alimentos_a_evitar": "Alcohol y cafeína en exceso.",
+      "recomendacion": "Monitorear cambios en el apetito."
+    },
+    {
+      "quimico": "Fenitoína",
+      "comercial": ["Epamin", "Fenital"],
+      "categoria": "Anticonvulsivante",
+      "interaccion_farma_nutri": "Antagonista del Ácido Fólico y Vitamina D.",
+      "alimentos_a_evitar": "Nutrición enteral continua (obstruye absorción).",
+      "recomendacion": "Pausar alimentación por sonda 2h antes y después."
+    },
+    {
+      "quimico": "Digoxina",
+      "comercial": ["Lanoxin"],
+      "categoria": "Cardiotónico",
+      "interaccion_farma_nutri": "La fibra reduce su absorción. Hipopotasemia aumenta toxicidad.",
+      "alimentos_a_evitar": "Avena, salvado y alimentos con fibra insoluble en la misma toma.",
+      "recomendacion": "Separar de alimentos con mucha fibra."
+    },
+    {
+      "quimico": "Litio",
+      "comercial": ["Cebalith", "Lithium"],
+      "categoria": "Antimaníaco",
+      "interaccion_farma_nutri": "La restricción de sodio aumenta los niveles de litio (toxicidad).",
+      "alimentos_a_evitar": "Dietas hiposódicas extremas sin ajuste de dosis.",
+      "recomendacion": "Mantener ingesta de sal y líquidos constante."
+    },
+    {
+      "quimico": "Aspirina",
+      "comercial": ["Aspirineta", "Cardioaspirina"],
+      "categoria": "Antiagregante",
+      "interaccion_farma_nutri": "Aumenta la excreción de Vitamina C.",
+      "alimentos_a_evitar": "Alcohol (aumenta riesgo de irritación gástrica).",
+      "recomendacion": "Asegurar fuentes de Vitamina C."
+    },
+    {
+      "quimico": "Metoclopramida",
+      "comercial": ["Primperan", "Reliveran"],
+      "categoria": "Antiemético",
+      "interaccion_farma_nutri": "Acelera el vaciamiento gástrico.",
+      "alimentos_a_evitar": "Alcohol (aumenta sedación).",
+      "recomendacion": "Administrar 30 minutos antes de las comidas."
+    },
+    {
+      "quimico": "Ciclosporina",
+      "comercial": ["Sandimmun", "Neoral"],
+      "categoria": "Inmunosupresor",
+      "interaccion_farma_nutri": "El pomelo aumenta toxicidad.",
+      "alimentos_a_evitar": "Pomelo (Toronja) y potasio en exceso.",
+      "recomendacion": "Evitar pomelo y controlar niveles de potasio."
+    },
+    {
+      "quimico": "Sulfametoxazol / Trimetoprima",
+      "comercial": ["Bactrim", "Cotrimoxazol"],
+      "categoria": "Antibiótico",
+      "interaccion_farma_nutri": "Interfiere con el metabolismo del Ácido Fólico.",
+      "alimentos_a_evitar": "Alcohol.",
+      "recomendacion": "Asegurar ingesta de vegetales verdes y buena hidratación."
+    },
+    {
+      "quimico": "Clopidogrel",
+      "comercial": ["Plavix", "Iscover"],
+      "categoria": "Antiagregante",
+      "interaccion_farma_nutri": "El ajo y ginkgo aumentan riesgo de sangrado.",
+      "alimentos_a_evitar": "Ajo (en grandes dosis), Jengibre y Ginkgo Biloba.",
+      "recomendacion": "Evitar suplementos herbales anticoagulantes."
+    },
+    {
+      "quimico": "Captopril",
+      "comercial": ["Capoten", "Cesplon"],
+      "categoria": "Antihipertensivo (IECA)",
+      "interaccion_farma_nutri": "La comida reduce su absorción en un 30-40%.",
+      "alimentos_a_evitar": "Sustitutos de sal con potasio.",
+      "recomendacion": "Tomar 1 hora antes de las comidas."
+    },
+    {
+      "quimico": "Fenobarbital",
+      "comercial": ["Gardenal", "Luminal"],
+      "categoria": "Anticonvulsivante",
+      "interaccion_farma_nutri": "Aumenta el metabolismo de Vitamina D, K y Ácido Fólico.",
+      "alimentos_a_evitar": "Alcohol.",
+      "recomendacion": "Evaluar suplementación de Vitamina D y Calcio."
+    },
+    {
+      "quimico": "Isoniazida",
+      "comercial": ["Cemidon", "Nidrazid"],
+      "categoria": "Antituberculoso",
+      "interaccion_farma_nutri": "Interfiere con el metabolismo de la Vitamina B6 (Piridoxina).",
+      "alimentos_a_evitar": "Alimentos ricos en tiramina (quesos curados, vino) y atún.",
+      "recomendacion": "Suplementar con Vitamina B6."
+    },
+    {
+      "quimico": "Teofilina",
+      "comercial": ["Theolair", "Teolixir"],
+      "categoria": "Broncodilatador",
+      "interaccion_farma_nutri": "Las dietas ricas en proteínas aumentan su eliminación.",
+      "alimentos_a_evitar": "Cafeína y dietas hiperproteicas extremas.",
+      "recomendacion": "Mantener ingesta de proteínas estable."
+    },
+    {
+      "quimico": "Espironolactona",
+      "comercial": ["Aldactone"],
+      "categoria": "Diurético",
+      "interaccion_farma_nutri": "Riesgo de hiperpotasemia.",
+      "alimentos_a_evitar": "Sustitutos de sal, plátanos, papas en exceso.",
+      "recomendacion": "Monitorear potasio sérico."
+    },
+    {
+      "quimico": "Propranolol",
+      "comercial": ["Inderal", "Sumial"],
+      "categoria": "Betabloqueante",
+      "interaccion_farma_nutri": "La comida aumenta su disponibilidad.",
+      "alimentos_a_evitar": "Alcohol.",
+      "recomendacion": "Tomar siempre de la misma forma (siempre con comida o siempre sin ella)."
+    },
+    {
+      "quimico": "Tetraciclina",
+      "comercial": ["Terramicina"],
+      "categoria": "Antibiótico",
+      "interaccion_farma_nutri": "Forma complejos insolubles con el Calcio.",
+      "alimentos_a_evitar": "Lácteos, antiácidos y suplementos de hierro.",
+      "recomendacion": "Tomar 1h antes o 2h después de comer."
+    },
+    {
+      "quimico": "Griseofulvina",
+      "comercial": ["Grisovin"],
+      "categoria": "Antifúngico",
+      "interaccion_farma_nutri": "La absorción mejora significativamente con grasas.",
+      "alimentos_a_evitar": "Dietas estrictamente acalóricas durante la toma.",
+      "recomendacion": "Tomar con una comida rica en grasas (ej. leche entera o palta)."
+    },
+    {
+      "quimico": "Carbonato de Calcio",
+      "comercial": ["Caltrate", "Calcibon"],
+      "categoria": "Suplemento Mineral",
+      "interaccion_farma_nutri": "Requiere ácido gástrico para absorberse adecuadamente.",
+      "alimentos_a_evitar": "Espinaca y acelga (oxalatos que bloquean el calcio).",
+      "recomendacion": "Tomar con las comidas para aprovechar el ácido clorhídrico."
+    },
+    {
+      "quimico": "Sulfato Ferroso",
+      "comercial": ["Fersol", "Hierro"],
+      "categoria": "Suplemento de Hierro",
+      "interaccion_farma_nutri": "El té, café y calcio inhiben su absorción.",
+      "alimentos_a_evitar": "Café, Té, Lácteos y huevos en la misma toma.",
+      "recomendacion": "Tomar junto a una fuente de Vitamina C (naranja) para mejorar absorción."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "E11 - Diabetes Mellitus Tipo 2": {
+    "pred": "Sedentarismo, dieta hipercalórica, obesidad abdominal y herencia genética.",
+    "fisi": "Resistencia a la insulina periférica y disfunción progresiva de las células beta pancreáticas.",
+    "imp": "Control de carga glucémica, monitoreo de fibra y prevención de nefropatía.",
+    "fp": 1.1
+  },
+  "I10 - Hipertensión Arterial": {
+    "pred": "Consumo excesivo de sodio, estrés crónico, tabaquismo y baja ingesta de potasio.",
+    "fisi": "Disfunción endotelial, rigidez vascular y activación del sistema Renina-Angiotensina-Aldosterona.",
+    "imp": "Dieta hiposódica (DASH), control de electrolitos y reducción de peso.",
+    "fp": 1.0
+  },
+  "F22 - Trastorno de Ideas Delirantes": {
+    "pred": "Rasgos de personalidad paranoide, aislamiento social y factores de estrés psicosocial.",
+    "fisi": "Hiperactividad dopaminérgica subcortical que altera la interpretación de la realidad.",
+    "imp": "Vigilancia de rechazo alimentario por delirios de perjuicio (miedo a envenenamiento).",
+    "fp": 1.1
+  },
+  "N18 - Enf. Renal Crónica": {
+    "pred": "Diabetes mellitus, hipertensión arterial no controlada y glomerulonefritis previa.",
+    "fisi": "Pérdida progresiva de nefronas con caída de la TFG e incapacidad de excreción de solutos.",
+    "imp": "Control estricto de proteínas, potasio, fósforo, sodio y balance de líquidos.",
+    "fp": 1.2
+  },
+  "K74 - Cirrosis Hepática": {
+    "pred": "Hepatitis crónica (B o C), alcoholismo crónico y esteatohepatitis no alcohólica.",
+    "fisi": "Fibrosis difusa y conversión de la arquitectura normal en nódulos de regeneración anómalos.",
+    "imp": "Control de sodio, restricción de líquidos en ascitis y aporte de proteínas de alto valor biológico.",
+    "fp": 1.3
+  },
+  "E66 - Obesidad": {
+    "pred": "Entorno obesogénico, desequilibrio energético positivo y alteraciones del ritmo circadiano.",
+    "fisi": "Inflamación de bajo grado mediada por adipoquinas y resistencia a la leptina.",
+    "imp": "Restricción calórica controlada, mejora de densidad nutricional y manejo conductual.",
+    "fp": 1.0
+  },
+  "F20 - Esquizofrenia": {
+    "pred": "Vulnerabilidad genética combinada con factores de estrés ambiental y neurobiológicos.",
+    "fisi": "Desequilibrio dopaminérgico (hiperactividad mesolímbica y déficit mesocortical).",
+    "imp": "Manejo de ganancia de peso y dislipidemia inducida por fármacos antipsicóticos.",
+    "fp": 1.1
+  },
+  "K29 - Gastritis Erreitativa": {
+    "pred": "Infección por H. pylori, uso crónico de AINEs, alcohol y consumo de irritantes.",
+    "fisi": "Desequilibrio entre factores agresores (ácido) y protectores de la mucosa gástrica.",
+    "imp": "Fraccionamiento de dieta, exclusión de irritantes químicos y temperaturas extremas.",
+    "fp": 1.0
+  },
+  "M32 - Lupus Eritematoso (LES)": {
+    "pred": "Factores genéticos, hormonales (estrógenos) y exposición a rayos UV.",
+    "fisi": "Autoinmunidad sistémica con depósito de inmunocomplejos que dañan vasos y riñón.",
+    "imp": "Dieta antiinflamatoria, control de sodio por corticoides y protección de masa ósea.",
+    "fp": 1.2
+  },
+  "E74.2 - Galactosemia": {
+    "pred": "Deficiencia hereditaria de la enzima GALT (herencia autosómica recesiva).",
+    "fisi": "Acumulación de galactosa-1-fosfato, causando daño celular en hígado, riñón y cristalino.",
+    "imp": "Exclusión estricta de lactosa y galactosa (lácteos, ciertas legumbres y vísceras).",
+    "fp": 1.1
+  },
+  "J44 - EPOC": {
+    "pred": "Tabaquismo crónico, exposición a biomasa (humo de leña) y factores genéticos.",
+    "fisi": "Obstrucción del flujo aéreo e hiperinsuflación que eleva el gasto energético respiratorio.",
+    "imp": "Dieta hipercalórica, fraccionada y con mayor aporte de grasas para reducir el QR.",
+    "fp": 1.3
+  },
+  "K90 - Enfermedad Celíaca": {
+    "pred": "Predisposición genética (HLA-DQ2/DQ8) y exposición dietética al gluten.",
+    "fisi": "Atrofia de vellosidades intestinales por respuesta inmune mediada por linfocitos T.",
+    "imp": "Dieta estrictamente libre de gluten (trigo, avena, cebada y centeno) de por vida.",
+    "fp": 1.1
+  },
+  "E03 - Hipotiroidismo": {
+    "pred": "Tiroiditis de Hashimoto (autoinmune) o deficiencia de yodo ambiental.",
+    "fisi": "Producción insuficiente de hormonas T3 y T4, ralentizando el metabolismo basal.",
+    "imp": "Control calórico estricto y aporte de fibra para contrarrestar el estreñimiento.",
+    "fp": 1.0
+  },
+  "K85 - Pancreatitis Aguda": {
+    "pred": "Litiasis biliar, alcoholismo, hipertrigliceridemia severa y traumatismos.",
+    "fisi": "Autodigestión del tejido pancreático por activación prematura de enzimas (tripsina).",
+    "imp": "Reposo pancreático inicial, progresión a dieta hipograsa y vigilancia de tolerancia.",
+    "fp": 1.3
+  },
+  "F50.0 - Anorexia Nerviosa": {
+    "pred": "Factores socioculturales, perfeccionismo extremo y distorsión de la imagen corporal.",
+    "fisi": "Adaptación metabólica a la inanición con alteración del eje hipotálamo-hipofisario.",
+    "imp": "Reposición calórica cautelosa para evitar Síndrome de Realimentación y vigilancia de K/Mg.",
+    "fp": 1.2
+  },
+  "G20 - Enfermedad de Parkinson": {
+    "pred": "Neurodegeneración de la sustancia negra y factores ambientales desconocidos.",
+    "fisi": "Déficit de dopamina que afecta motilidad gástrica y coordinación de masticación/deglución.",
+    "imp": "Redistribución proteica por interacción con Levodopa y manejo de texturas para disfagia.",
+    "fp": 1.1
+  },
+  "N04 - Síndrome Nefrótico": {
+    "pred": "Glomerulonefritis primaria, diabetes mellitus o lupus eritematoso.",
+    "fisi": "Aumento de permeabilidad glomerular con proteinuria masiva e hipoalbuminemia.",
+    "imp": "Dieta normoproteica, hiposódica y control estricto de grasas saturadas.",
+    "fp": 1.2
+  },
+  "K21 - Reflujo Gastroesofágico": {
+    "pred": "Obesidad abdominal, tabaquismo y consumo de alimentos relajantes del EEI.",
+    "fisi": "Incompetencia del esfínter esofágico inferior que permite el reflujo del contenido ácido.",
+    "imp": "Evitar volúmenes grandes de comida y grasas, especialmente antes del decúbito.",
+    "fp": 1.0
+  },
+  "M10 - Gota / Hiperuricemia": {
+    "pred": "Dieta alta en purinas, alcoholismo y defectos en la excreción renal de uratos.",
+    "fisi": "Depósito de cristales de urato monosódico en articulaciones por niveles séricos altos.",
+    "imp": "Dieta baja en purinas (carnes rojas, mariscos), hidratación y control de fructosa.",
+    "fp": 1.0
+  },
+  "I50 - Insuficiencia Cardíaca": {
+    "pred": "Cardiopatía isquémica, hipertensión arterial crónica y valvulopatías.",
+    "fisi": "Incapacidad de bombeo efectivo que genera congestión venosa y edema sistémico.",
+    "imp": "Restricción de sodio y líquidos, fraccionamiento para evitar fatiga postprandial.",
+    "fp": 1.2
+  },
+  "A01 - Fiebre Tifoidea": {
+    "pred": "Ingestión de agua o alimentos contaminados con Salmonella typhi.",
+    "fisi": "Invasión linfoide intestinal con inflamación de placas de Peyer y riesgo de ulceración.",
+    "imp": "Dieta blanda gástrica, baja en residuos, hipercalórica e hidratación constante.",
+    "fp": 1.2
+  },
+  "E83.0 - Enf. de Wilson": {
+    "pred": "Defecto genético en la proteína transportadora de cobre (ATP7B).",
+    "fisi": "Acumulación tóxica de cobre en hígado, ganglios basales y córnea.",
+    "imp": "Dieta restringida en cobre (evitar vísceras, mariscos, chocolate y champiñones).",
+    "fp": 1.1
+  },
+  "L40 - Psoriasis": {
+    "pred": "Estrés, predisposición genética e infecciones desencadenantes.",
+    "fisi": "Proliferación acelerada de queratinocitos por inflamación sistémica mediada por linfocitos T.",
+    "imp": "Dieta antiinflamatoria, control de peso y optimización de Vitamina D.",
+    "fp": 1.1
+  },
+  "E24 - Síndrome de Cushing": {
+    "pred": "Adenoma hipofisario o uso prolongado de fármacos glucocorticoides.",
+    "fisi": "Hipercortisolismo que induce gluconeogénesis excesiva y catabolismo proteico.",
+    "imp": "Control de carbohidratos, dieta hiposódica y aporte de potasio y calcio.",
+    "fp": 1.2
+  },
+  "K58 - Síndrome de Intestino Irritable": {
+    "pred": "Disbiosis intestinal, hipersensibilidad visceral y estrés psicogénico.",
+    "fisi": "Alteración de la motilidad intestinal y eje cerebro-intestino frente a FODMAPs.",
+    "imp": "Implementación de dieta baja en FODMAPs y manejo de fibra según el subtipo.",
+    "fp": 1.0
+  },
+  "E71.0 - Jarabe de Arce (MSUD)": {
+    "pred": "Defecto genético en el complejo deshidrogenasa de aminoácidos ramificados.",
+    "fisi": "Acumulación neurotóxica de Leucina, Isoleucina y Valina.",
+    "imp": "Restricción estricta de aminoácidos ramificados y uso de fórmulas metabólicas.",
+    "fp": 1.2
+  },
+  "T30 - Quemaduras Graves": {
+    "pred": "Accidentes térmicos, eléctricos o químicos de gran extensión.",
+    "fisi": "Estado hipermetabólico extremo con proteólisis masiva y pérdida de nitrógeno.",
+    "imp": "Soporte hiperproteico e hipercalórico con aporte extra de Zinc y Vitamina C.",
+    "fp": 1.5
+  },
+  "B20 - VIH / SIDA": {
+    "pred": "Infección viral por VIH y progresión a inmunodeficiencia.",
+    "fisi": "Destrucción de linfocitos CD4 que eleva el gasto energético y causa malabsorción.",
+    "imp": "Higiene alimentaria rigurosa, dieta hipercalórica y manejo de infecciones oportunistas.",
+    "fp": 1.3
+  },
+  "G30 - Enf. de Alzheimer": {
+    "pred": "Edad avanzada, genética (APOE4) y factores de riesgo vascular.",
+    "fisi": "Depósito de placas de amiloide que causa neurodegeneración y pérdida cognitiva.",
+    "imp": "Prevención de desorientación en comidas, texturas suaves y alta densidad de nutrientes.",
+    "fp": 1.1
+  },
+  "D64 - Anemia Ferropénica": {
+    "pred": "Baja ingesta de hierro hemínico, malabsorción o pérdidas hemáticas crónicas.",
+    "fisi": "Agotamiento de reservas de hierro afectando la síntesis de hemoglobina y transporte de O2.",
+    "imp": "Incrementar hierro hemínico y Vitamina C; evitar taninos y fitatos en comidas.",
+    "fp": 1.1
+  },
+  "ANT - Gastrectomía Parcial/Total": {
+    "pred": "Cirugía previa por úlceras, tumores o bypass gástrico.",
+    "fisi": "Pérdida de células parietales y factor intrínseco; tránsito digestivo acelerado.",
+    "imp": "Suplementación de Vit. B12 y Hierro; fraccionamiento extremo para evitar Dumping.",
+    "fp": 1.2
+  },
+  "ANT - Colecistectomía (Vesícula)": {
+    "pred": "Cirugía por litiasis biliar o colecistitis previa.",
+    "fisi": "Ausencia de reservorio biliar; bilis fluye continuamente al duodeno sin control.",
+    "imp": "Limitación en digestión de grasas; riesgo de esteatorrea y déficit de Vit. A, D, E, K.",
+    "fp": 1.0
+  },
+  "ANT - Resección Intestinal / Crohn": {
+    "pred": "Antecedente de isquemia, vólvulo o enfermedad inflamatoria intestinal.",
+    "fisi": "Reducción de superficie absortiva; pérdida de transporte de sales biliares.",
+    "imp": "Vigilancia de Zinc, Magnesio y B12; riesgo de desnutrición proteico-energética.",
+    "fp": 1.2
+  },
+  "ANT - Pancreatitis Crónica / Recurrente": {
+    "pred": "Episodios previos de inflamación pancreática (alcohol/litiasis).",
+    "fisi": "Insuficiencia exocrina; incapacidad de secretar lipasas y proteasas suficientes.",
+    "imp": "Dieta hipograsa permanente; posible necesidad de enzimas pancreáticas exógenas.",
+    "fp": 1.2
+  },
+  "ANT - Uso Crónico de Corticoides": {
+    "pred": "Tratamiento prolongado por Lupus, Artritis o Asma severa.",
+    "fisi": "Catabolismo proteico muscular y alteración del metabolismo del Calcio/Vit D.",
+    "imp": "Aporte extra de Calcio y Proteína; control estricto de sodio por retención hídrica.",
+    "fp": 1.1
+  },
+  "ANT - Diabetes Gestacional Previa": {
+    "pred": "Alteración glucémica en embarazos anteriores.",
+    "fisi": "Resistencia a la insulina residual; agotamiento temprano de la reserva pancreática.",
+    "imp": "Control preventivo de carga glucémica para evitar progresión a DM2 definitiva.",
+    "fp": 1.1
+  },
+  "ANT - Esplenectomía (Retiro de Bazo)": {
+    "pred": "Cirugía por trauma abdominal o enfermedades hematológicas.",
+    "fisi": "Alteración de la respuesta inmunológica y metabolismo de los eritrocitos.",
+    "imp": "Enfoque en dieta inmunomoduladora (Zinc, Vit. C) y seguridad alimentaria extrema.",
+    "fp": 1.1
+  },
+  "ANT - Apendicectomía": {
+    "pred": "Cirugía de emergencia por apendicitis aguda.",
+    "fisi": "Alteración menor en la microbiota intestinal (el apéndice actúa como reservorio).",
+    "imp": "Sin restricciones mayores; priorizar probióticos para restaurar flora post-antibióticos.",
+    "fp": 1.0
+  },
+  "ANT - Tabaquismo / EPOC Estable": {
+    "pred": "Hábito tabáquico de larga data o exposición a biomasa.",
+    "fisi": "Estrés oxidativo crónico; aumento del gasto energético por esfuerzo respiratorio.",
+    "imp": "Aumento de requerimiento de Vitamina C y antioxidantes; dieta hipercalórica.",
+    "fp": 1.2
+  },
+  "ANT - Anemia Megaloblástica Previa": {
+    "pred": "Déficit histórico de B12 o Ácido Fólico (común en veganos o malabsorción).",
+    "fisi": "Memoria de eritropoyesis ineficaz; posible daño neurológico subclínico.",
+    "imp": "Monitoreo de niveles séricos y dieta rica en folatos y cobalamina.",
+    "fp": 1.1
+  }
+}

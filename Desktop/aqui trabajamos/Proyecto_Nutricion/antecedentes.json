@@ -1,0 +1,53 @@
+{
+  "patologicos": [
+    "Diabetes Mellitus Tipo 1",
+    "Diabetes Mellitus Tipo 2",
+    "Hipertensión Arterial (HTA)",
+    "Dislipidemia (Colesterol/Triglicéridos)",
+    "Hipotiroidismo",
+    "Hipertiroidismo",
+    "Gastritis / Úlcera Peptica",
+    "Reflujo Gastroesofágico (ERGE)",
+    "Síndrome de Intestino Irritable (SII)",
+    "Hígado Graso (Esteatosis)",
+    "Insuficiencia Renal Crónica (IRC)",
+    "Insuficiencia Renal Aguda (IRA)",
+    "Insuficiencia Cardíaca",
+    "Colelitiasis (Cálculos biliares)",
+    "Anemia (Ferropénica/Megaloblástica)",
+    "Cáncer / Neoplasia",
+    "VIH / SIDA",
+    "Tuberculosis (TBC)"
+  ],
+  "quirurgicos": [
+    "Colecistectomía (Vesícula)",
+    "Apendicectomía",
+    "Hernioplastia (Umbilical/Inguinal)",
+    "Bypass Gástrico",
+    "Manga Gástrica",
+    "Gastrectomía Parcial/Total",
+    "Resección Intestinal",
+    "Colostomía / Ileostomía",
+    "Cesárea",
+    "Histerectomía",
+    "Cirugía de Columna",
+    "Cirugía de Cadera / Rodilla",
+    "Drenaje de Absceso"
+  ],
+  "gineco_obstetricos": [
+    "Embarazo Actual",
+    "Lactancia Materna",
+    "Menopausia",
+    "Ciclos Irregulares",
+    "SOP (Síndrome de Ovario Poliquístico)",
+    "Uso de Anticonceptivos Hormonales"
+  ],
+  "habitos_nocivos": [
+    "Tabaquismo Activo",
+    "Consumo de Alcohol Frecuente",
+    "Sedentarismo Extremo",
+    "Consumo de Sustancias (Drogas)",
+    "Consumo Excesivo de Cafeína",
+    "Consumo de Coca (Boleo)"
+  ]
+}

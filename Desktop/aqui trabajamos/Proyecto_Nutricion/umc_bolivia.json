@@ -1,0 +1,1255 @@
+{
+  "descripcion": "Unidades de Medida Casera bolivianas — Sucre",
+  "umc_a_gramos": {
+    "1 cuchara sopera": 15,
+    "2 cucharas soperas": 30,
+    "3 cucharas soperas": 45,
+    "4 cucharas soperas": 60,
+    "5 cucharas soperas": 75,
+    "6 cucharas soperas": 90,
+    "8 cucharas soperas": 120,
+    "10 cucharas soperas": 150,
+    "12 cucharas soperas": 180,
+    "1 cucharilla": 5,
+    "2 cucharillas": 10,
+    "3 cucharillas": 15,
+    "4 cucharillas": 20,
+    "1 cucharada": 15,
+    "2 cucharadas": 30,
+    "3 cucharadas": 45,
+    "1 taza (200ml)": 200,
+    "1/2 taza (100ml)": 100,
+    "1/4 taza (50ml)": 50,
+    "3/4 taza (150ml)": 150,
+    "1 taza mantequillera": 80,
+    "1/2 taza mantequillera": 40,
+    "1/4 taza mantequillera": 20,
+    "1 vaso (250ml)": 250,
+    "1/2 vaso (125ml)": 125,
+    "1 pocillo (60ml)": 60,
+    "1 pan": 60,
+    "1/2 pan": 30,
+    "1/3 pan": 20,
+    "1 pan integral": 60,
+    "1/2 pan integral": 30,
+    "1/3 pan integral": 20,
+    "1 rebanada pan": 30,
+    "2 rebanadas pan": 60,
+    "1 galleta integral": 7,
+    "2 galletas integrales": 14,
+    "3 galletas integrales": 21,
+    "4 galletas integrales": 28,
+    "6 galletas integrales": 42,
+    "8 galletas integrales": 56,
+    "1 presa de pollo (mediana)": 90,
+    "1 presa de pollo (pequeña)": 60,
+    "1 pierna de pollo": 90,
+    "1 pechuga de pollo": 120,
+    "1 muslo de pollo": 90,
+    "1 porción de carne res": 90,
+    "1 porción de carne res (pequeña)": 60,
+    "1 porción de pescado": 90,
+    "1 huevo entero": 50,
+    "1 huevo grande": 60,
+    "clara de 1 huevo": 30,
+    "1 lata de atún (pequeña)": 80,
+    "1 papa grande": 120,
+    "1 papa mediana": 80,
+    "1 papa pequeña": 50,
+    "1 papa con cáscara (mediana)": 80,
+    "2 papas medianas": 160,
+    "3 papas medianas": 240,
+    "1 camote mediano": 100,
+    "1 porción puré": 150,
+    "1 manzana mediana": 120,
+    "1 manzana pequeña": 80,
+    "1/2 manzana": 60,
+    "1 plátano mediano": 90,
+    "2 plátanos medianos": 180,
+    "1 naranja mediana": 130,
+    "1 naranja pequeña": 90,
+    "1 durazno mediano": 100,
+    "2 duraznos medianos": 200,
+    "1 pera mediana": 110,
+    "1 rodaja de sandía": 150,
+    "2 rodajas de papaya": 150,
+    "1/2 taza de frutillas": 75,
+    "1 taza de uvas": 100,
+    "1 zanahoria mediana": 60,
+    "2 zanahorias medianas": 120,
+    "1 zanahoria pequeña": 40,
+    "1/4 zanahoria pequeña": 10,
+    "1 tomate mediano": 100,
+    "1/2 tomate mediano": 50,
+    "1/4 tomate pequeño": 10,
+    "1 cebolla mediana": 100,
+    "1/4 cebolla pequeña": 25,
+    "1/2 cebolla pequeña": 50,
+    "1 taza de espinaca": 30,
+    "1/2 taza de espinaca": 15,
+    "5 hojas de acelga": 30,
+    "20 hojas de acelga": 120,
+    "1 puñado de lechuga": 20,
+    "1 rodaja de remolacha": 30,
+    "1 cuchara de arroz": 15,
+    "3 cucharas de arroz": 45,
+    "4 cucharas de arroz": 60,
+    "6 cucharas de arroz": 90,
+    "8 cucharas de arroz": 120,
+    "12 cucharas de arroz": 180,
+    "1 porción de arroz cocido": 150,
+    "4 cucharas de avena": 20,
+    "1/2 taza de avena": 45,
+    "4 cucharas de fideo": 60,
+    "4 cucharas de quinua": 40,
+    "3 cucharas de maicena": 15,
+    "4 cucharas de maíz": 60,
+    "1 taza de leche (200ml)": 200,
+    "1 vaso de leche (250ml)": 250,
+    "4 cucharillas de leche": 20,
+    "1 pote de yogur": 150,
+    "1/2 pote de yogur": 75,
+    "1 trozo de queso fresco": 30,
+    "2 trozos de queso fresco": 60,
+    "1 cuchara de aceite": 10,
+    "1/2 cuchara de aceite": 5,
+    "2 cucharas de aceite": 20,
+    "1 cucharilla de aceite": 5,
+    "1 cuchara de mantequilla": 10,
+    "1 cucharilla de azúcar": 5,
+    "2 cucharillas de azúcar": 10,
+    "3 cucharillas de azúcar": 15,
+    "4 cucharillas de azúcar": 20,
+    "1 cuchara de azúcar": 12,
+    "2 cucharadas de azúcar": 24,
+    "1/2 taza de lentejas cocidas": 90,
+    "1 taza de lentejas cocidas": 180,
+    "1/2 taza de arvejas": 80,
+    "1/2 taza de frijoles": 90,
+    "1/2 taza de habas": 80,
+    "2 cucharas de linaza": 20,
+    "1 cuchara de linaza": 10
+  },
+  "gramos_a_umc": {
+    "ARROZ": [
+      [
+        15,
+        "1 cuchara sopera"
+      ],
+      [
+        30,
+        "2 cucharas"
+      ],
+      [
+        45,
+        "3 cucharas"
+      ],
+      [
+        60,
+        "4 cucharas"
+      ],
+      [
+        90,
+        "6 cucharas"
+      ],
+      [
+        120,
+        "8 cucharas"
+      ],
+      [
+        180,
+        "12 cucharas"
+      ]
+    ],
+    "AVENA": [
+      [
+        10,
+        "2 cucharas soperas"
+      ],
+      [
+        20,
+        "4 cucharas soperas"
+      ],
+      [
+        30,
+        "6 cucharas soperas"
+      ],
+      [
+        45,
+        "1/2 taza"
+      ],
+      [
+        90,
+        "1 taza"
+      ]
+    ],
+    "FIDEO": [
+      [
+        30,
+        "2 cucharas"
+      ],
+      [
+        60,
+        "4 cucharas"
+      ],
+      [
+        90,
+        "6 cucharas"
+      ],
+      [
+        120,
+        "8 cucharas"
+      ]
+    ],
+    "QUINUA": [
+      [
+        20,
+        "2 cucharas"
+      ],
+      [
+        25,
+        "2 cucharas soperas"
+      ],
+      [
+        40,
+        "4 cucharas"
+      ],
+      [
+        80,
+        "1/2 taza"
+      ]
+    ],
+    "MAIZ": [
+      [
+        25,
+        "2 cucharas soperas"
+      ],
+      [
+        40,
+        "3 cucharas"
+      ],
+      [
+        50,
+        "4 cucharas"
+      ],
+      [
+        100,
+        "1/2 taza"
+      ]
+    ],
+    "PAN BLANCO": [
+      [
+        20,
+        "1/3 pan integral"
+      ],
+      [
+        30,
+        "1/2 pan integral"
+      ],
+      [
+        60,
+        "1 pan integral"
+      ]
+    ],
+    "PAN INTEGRAL": [
+      [
+        20,
+        "1/3 pan integral"
+      ],
+      [
+        30,
+        "1/2 pan integral"
+      ],
+      [
+        60,
+        "1 pan integral"
+      ]
+    ],
+    "PAPA": [
+      [
+        50,
+        "1 papa pequeña"
+      ],
+      [
+        80,
+        "1 papa mediana"
+      ],
+      [
+        120,
+        "1 papa grande"
+      ],
+      [
+        160,
+        "2 papas medianas"
+      ],
+      [
+        240,
+        "3 papas medianas"
+      ]
+    ],
+    "CAMOTE": [
+      [
+        50,
+        "1/2 camote"
+      ],
+      [
+        100,
+        "1 camote mediano"
+      ]
+    ],
+    "ZANAHORIA": [
+      [
+        10,
+        "1/4 zanahoria"
+      ],
+      [
+        40,
+        "1 zanahoria pequeña"
+      ],
+      [
+        60,
+        "1 zanahoria mediana"
+      ],
+      [
+        120,
+        "2 zanahorias medianas"
+      ]
+    ],
+    "TOMATE": [
+      [
+        50,
+        "1/2 tomate"
+      ],
+      [
+        100,
+        "1 tomate mediano"
+      ]
+    ],
+    "CEBOLLA": [
+      [
+        25,
+        "1/4 cebolla"
+      ],
+      [
+        50,
+        "1/2 cebolla"
+      ],
+      [
+        100,
+        "1 cebolla mediana"
+      ]
+    ],
+    "ESPINACA": [
+      [
+        10,
+        "1 puñado pequeño"
+      ],
+      [
+        20,
+        "1/2 taza mantequillera"
+      ],
+      [
+        30,
+        "1 taza mantequillera"
+      ],
+      [
+        40,
+        "1/2 taza"
+      ],
+      [
+        80,
+        "1 taza"
+      ]
+    ],
+    "ACELGA": [
+      [
+        10,
+        "2 hojas"
+      ],
+      [
+        20,
+        "4 hojas"
+      ],
+      [
+        30,
+        "5 hojas"
+      ],
+      [
+        60,
+        "10 hojas"
+      ],
+      [
+        120,
+        "20 hojas"
+      ]
+    ],
+    "LECHUGA": [
+      [
+        20,
+        "1 puñado"
+      ],
+      [
+        40,
+        "2 puñados"
+      ]
+    ],
+    "POLLO": [
+      [
+        60,
+        "1 presa pequeña"
+      ],
+      [
+        90,
+        "1 presa mediana"
+      ],
+      [
+        120,
+        "1 pechuga"
+      ]
+    ],
+    "CARNE DE RES": [
+      [
+        60,
+        "1 porción pequeña"
+      ],
+      [
+        80,
+        "1 porción mediana"
+      ],
+      [
+        90,
+        "1 porción mediana"
+      ],
+      [
+        120,
+        "1 porción grande"
+      ]
+    ],
+    "PESCADO": [
+      [
+        60,
+        "1 trozo pequeño"
+      ],
+      [
+        90,
+        "1 trozo mediano"
+      ],
+      [
+        120,
+        "1 trozo grande"
+      ]
+    ],
+    "HUEVO": [
+      [
+        50,
+        "1 huevo entero"
+      ],
+      [
+        100,
+        "2 huevos"
+      ]
+    ],
+    "MANZANA": [
+      [
+        60,
+        "1/2 manzana"
+      ],
+      [
+        80,
+        "1 manzana pequeña"
+      ],
+      [
+        90,
+        "1 manzana pequeña"
+      ],
+      [
+        120,
+        "1 manzana mediana"
+      ],
+      [
+        150,
+        "1 manzana grande"
+      ]
+    ],
+    "PLATANO": [
+      [
+        60,
+        "1 plátano pequeño"
+      ],
+      [
+        90,
+        "1 plátano mediano"
+      ],
+      [
+        120,
+        "1 plátano grande"
+      ],
+      [
+        180,
+        "2 plátanos medianos"
+      ]
+    ],
+    "NARANJA": [
+      [
+        90,
+        "1 naranja pequeña"
+      ],
+      [
+        130,
+        "1 naranja mediana"
+      ],
+      [
+        180,
+        "1 naranja grande"
+      ]
+    ],
+    "DURAZNO": [
+      [
+        80,
+        "1 durazno pequeño"
+      ],
+      [
+        100,
+        "1 durazno mediano"
+      ],
+      [
+        200,
+        "2 duraznos medianos"
+      ]
+    ],
+    "PERA": [
+      [
+        80,
+        "1 pera pequeña"
+      ],
+      [
+        110,
+        "1 pera mediana"
+      ],
+      [
+        150,
+        "1 pera grande"
+      ]
+    ],
+    "PAPAYA": [
+      [
+        75,
+        "1 rodaja"
+      ],
+      [
+        100,
+        "1 rodaja grande"
+      ],
+      [
+        150,
+        "2 rodajas"
+      ]
+    ],
+    "SANDIA": [
+      [
+        100,
+        "1 rodaja pequeña"
+      ],
+      [
+        150,
+        "1 rodaja mediana"
+      ],
+      [
+        250,
+        "1 rodaja grande"
+      ]
+    ],
+    "LECHE ENTERA": [
+      [
+        100,
+        "1/2 taza"
+      ],
+      [
+        150,
+        "3/4 taza"
+      ],
+      [
+        200,
+        "1 taza (200ml)"
+      ],
+      [
+        250,
+        "1 vaso (250ml)"
+      ]
+    ],
+    "YOGUR NATURAL": [
+      [
+        75,
+        "1/2 pote"
+      ],
+      [
+        100,
+        "2/3 pote"
+      ],
+      [
+        150,
+        "1 pote"
+      ]
+    ],
+    "QUESO FRESCO": [
+      [
+        15,
+        "1/2 trozo"
+      ],
+      [
+        30,
+        "1 trozo"
+      ],
+      [
+        60,
+        "2 trozos"
+      ]
+    ],
+    "ACEITE": [
+      [
+        5,
+        "1 cucharilla"
+      ],
+      [
+        10,
+        "1 cuchara sopera"
+      ],
+      [
+        15,
+        "1 cuchara sopera y media"
+      ],
+      [
+        20,
+        "2 cucharas soperas"
+      ]
+    ],
+    "AZUCAR": [
+      [
+        5,
+        "1 cucharilla"
+      ],
+      [
+        10,
+        "2 cucharillas"
+      ],
+      [
+        15,
+        "3 cucharillas"
+      ],
+      [
+        20,
+        "4 cucharillas"
+      ],
+      [
+        25,
+        "5 cucharillas"
+      ]
+    ],
+    "LENTEJA": [
+      [
+        30,
+        "2 cucharas"
+      ],
+      [
+        60,
+        "1/2 taza cocida"
+      ],
+      [
+        90,
+        "3/4 taza cocida"
+      ],
+      [
+        120,
+        "1 taza cocida"
+      ]
+    ],
+    "ARVEJA": [
+      [
+        40,
+        "1/4 taza"
+      ],
+      [
+        80,
+        "1/2 taza"
+      ],
+      [
+        160,
+        "1 taza"
+      ]
+    ],
+    "LINAZA": [
+      [
+        10,
+        "1 cuchara sopera"
+      ],
+      [
+        15,
+        "1 cuchara y media"
+      ],
+      [
+        20,
+        "2 cucharas soperas"
+      ]
+    ],
+    "AVENA INSTANTANEA": [
+      [
+        10,
+        "2 cucharas soperas"
+      ],
+      [
+        20,
+        "4 cucharas soperas"
+      ],
+      [
+        30,
+        "6 cucharas soperas"
+      ],
+      [
+        45,
+        "1/2 taza"
+      ],
+      [
+        90,
+        "1 taza"
+      ]
+    ],
+    "MAIZENA": [
+      [
+        10,
+        "2 cucharillas"
+      ],
+      [
+        15,
+        "3 cucharas soperas"
+      ],
+      [
+        30,
+        "2 cucharadas"
+      ]
+    ],
+    "HABA": [
+      [
+        40,
+        "1/4 taza"
+      ],
+      [
+        80,
+        "1/2 taza"
+      ]
+    ],
+    "GARBANZO": [
+      [
+        40,
+        "1/4 taza"
+      ],
+      [
+        80,
+        "1/2 taza"
+      ]
+    ],
+    "REPOLLO": [
+      [
+        30,
+        "1/4 taza mantequillera"
+      ],
+      [
+        60,
+        "1/2 taza"
+      ],
+      [
+        120,
+        "1 taza"
+      ]
+    ],
+    "ZAPALLO": [
+      [
+        50,
+        "1 trozo pequeño"
+      ],
+      [
+        100,
+        "1 trozo mediano"
+      ],
+      [
+        150,
+        "1 trozo grande"
+      ]
+    ],
+    "REMOLACHA": [
+      [
+        30,
+        "1 rodaja"
+      ],
+      [
+        60,
+        "2 rodajas"
+      ],
+      [
+        90,
+        "3 rodajas"
+      ]
+    ],
+    "LIMON": [
+      [
+        30,
+        "1 limón"
+      ],
+      [
+        60,
+        "2 limones"
+      ]
+    ],
+    "MANGO": [
+      [
+        80,
+        "1/2 mango"
+      ],
+      [
+        150,
+        "1 mango mediano"
+      ]
+    ],
+    "HIGADO": [
+      [
+        60,
+        "1 trozo pequeño"
+      ],
+      [
+        90,
+        "1 trozo mediano"
+      ]
+    ],
+    "ATUN": [
+      [
+        40,
+        "1/2 lata pequeña"
+      ],
+      [
+        80,
+        "1 lata pequeña"
+      ]
+    ],
+    "MANTEQUILLA": [
+      [
+        5,
+        "1 cucharilla"
+      ],
+      [
+        10,
+        "1 cuchara sopera"
+      ],
+      [
+        20,
+        "2 cucharas soperas"
+      ]
+    ],
+    "ENTERA EN POLVO PIL": [
+      [
+        10,
+        "2 cucharillas"
+      ],
+      [
+        20,
+        "4 cucharillas"
+      ],
+      [
+        30,
+        "2 cucharas soperas"
+      ]
+    ],
+    "QUESO": [
+      [
+        15,
+        "1/2 trozo"
+      ],
+      [
+        30,
+        "1 trozo"
+      ],
+      [
+        60,
+        "2 trozos"
+      ]
+    ],
+    "POLLO CORTES": [
+      [
+        60,
+        "1 presa pequeña"
+      ],
+      [
+        90,
+        "1 presa mediana"
+      ],
+      [
+        120,
+        "1 presa grande"
+      ]
+    ],
+    "BISTEC": [
+      [
+        60,
+        "1 bistec pequeño"
+      ],
+      [
+        90,
+        "1 bistec mediano"
+      ],
+      [
+        120,
+        "1 bistec grande"
+      ]
+    ],
+    "HUEVO ENTERO -GALLINA": [
+      [
+        50,
+        "1 huevo"
+      ],
+      [
+        100,
+        "2 huevos"
+      ],
+      [
+        150,
+        "3 huevos"
+      ]
+    ],
+    "ATUN EN AGUA": [
+      [
+        40,
+        "1/2 lata"
+      ],
+      [
+        80,
+        "1 lata pequeña"
+      ]
+    ],
+    "ACEITE VEGETAL": [
+      [
+        5,
+        "1 cucharilla"
+      ],
+      [
+        10,
+        "1 cuchara sopera"
+      ],
+      [
+        20,
+        "2 cucharas soperas"
+      ]
+    ],
+    "YOGUR VASO": [
+      [
+        100,
+        "1/2 vaso"
+      ],
+      [
+        150,
+        "1 vaso"
+      ],
+      [
+        200,
+        "1 vaso grande"
+      ]
+    ],
+    "FIDEO TALLARIN": [
+      [
+        30,
+        "2 cucharas"
+      ],
+      [
+        60,
+        "4 cucharas"
+      ],
+      [
+        90,
+        "6 cucharas"
+      ]
+    ],
+    "MAIZ PELADO": [
+      [
+        25,
+        "2 cucharas"
+      ],
+      [
+        40,
+        "3 cucharas"
+      ],
+      [
+        80,
+        "1/2 taza"
+      ]
+    ],
+    "LECHE FLUIDA DESCREMADA": [
+      [
+        100,
+        "1/2 taza"
+      ],
+      [
+        150,
+        "3/4 taza"
+      ],
+      [
+        200,
+        "1 taza (200ml)"
+      ],
+      [
+        250,
+        "1 vaso"
+      ]
+    ],
+    "FILETE DE PECHUGA": [
+      [
+        80,
+        "1 filete pequeño"
+      ],
+      [
+        120,
+        "1 filete mediano"
+      ],
+      [
+        150,
+        "1 filete grande"
+      ]
+    ],
+    "CUADRIL": [
+      [
+        60,
+        "1 trozo"
+      ],
+      [
+        90,
+        "1 porción mediana"
+      ],
+      [
+        120,
+        "1 porción grande"
+      ]
+    ],
+    "CADERA": [
+      [
+        60,
+        "1 trozo"
+      ],
+      [
+        90,
+        "1 porción mediana"
+      ]
+    ],
+    "YOGUR LIGHT": [
+      [
+        100,
+        "1/2 vaso"
+      ],
+      [
+        150,
+        "1 vaso"
+      ]
+    ],
+    "FIDEO SURTIDO": [
+      [
+        30,
+        "2 cucharas"
+      ],
+      [
+        60,
+        "4 cucharas"
+      ],
+      [
+        90,
+        "6 cucharas"
+      ]
+    ],
+    "FIDEO ROSCA": [
+      [
+        30,
+        "2 cucharas"
+      ],
+      [
+        60,
+        "4 cucharas"
+      ]
+    ],
+    "PAPA SIN CASCARA": [
+      [
+        50,
+        "1 papa pequeña"
+      ],
+      [
+        80,
+        "1 papa mediana"
+      ],
+      [
+        120,
+        "1 papa grande"
+      ],
+      [
+        160,
+        "2 papas"
+      ]
+    ],
+    "PAPA LISA": [
+      [
+        50,
+        "1 papa pequeña"
+      ],
+      [
+        80,
+        "1 papa mediana"
+      ],
+      [
+        120,
+        "1 papa grande"
+      ]
+    ],
+    "CHOCLO": [
+      [
+        80,
+        "1/2 choclo"
+      ],
+      [
+        150,
+        "1 choclo mediano"
+      ]
+    ],
+    "CEBOLLA CABEZA": [
+      [
+        25,
+        "1/4 cebolla"
+      ],
+      [
+        50,
+        "1/2 cebolla"
+      ],
+      [
+        100,
+        "1 cebolla mediana"
+      ]
+    ],
+    "APIO HOJAS": [
+      [
+        5,
+        "1 ramita"
+      ],
+      [
+        10,
+        "2 ramitas"
+      ],
+      [
+        20,
+        "1 puñado"
+      ]
+    ],
+    "HABA - 1": [
+      [
+        40,
+        "1/4 taza"
+      ],
+      [
+        80,
+        "1/2 taza"
+      ],
+      [
+        160,
+        "1 taza"
+      ]
+    ],
+    "HOJUELAS DE QUINUA": [
+      [
+        20,
+        "2 cucharas"
+      ],
+      [
+        40,
+        "4 cucharas"
+      ],
+      [
+        80,
+        "1/2 taza"
+      ]
+    ],
+    "API MORADO": [
+      [
+        25,
+        "2 cucharas"
+      ],
+      [
+        50,
+        "4 cucharas"
+      ]
+    ],
+    "API": [
+      [
+        25,
+        "2 cucharas"
+      ],
+      [
+        50,
+        "4 cucharas"
+      ]
+    ],
+    "MANTEQUILLA SIN SAL": [
+      [
+        5,
+        "1 cucharilla"
+      ],
+      [
+        10,
+        "1 cuchara sopera"
+      ],
+      [
+        20,
+        "2 cucharas"
+      ]
+    ],
+    "MANTEQUILLA CON SAL": [
+      [
+        5,
+        "1 cucharilla"
+      ],
+      [
+        10,
+        "1 cuchara sopera"
+      ]
+    ],
+    "GALLETAS INTEGRAL": [
+      [
+        7,
+        "1 galleta"
+      ],
+      [
+        14,
+        "2 galletas"
+      ],
+      [
+        21,
+        "3 galletas"
+      ],
+      [
+        28,
+        "4 galletas"
+      ],
+      [
+        42,
+        "6 galletas"
+      ],
+      [
+        56,
+        "8 galletas"
+      ]
+    ],
+    "GALLETAS DE AGUA": [
+      [
+        5,
+        "1 galleta"
+      ],
+      [
+        10,
+        "2 galletas"
+      ],
+      [
+        20,
+        "4 galletas"
+      ]
+    ]
+  }
+}

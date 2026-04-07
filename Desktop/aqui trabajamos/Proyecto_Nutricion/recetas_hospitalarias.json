@@ -1,0 +1,919 @@
+{
+  "Sopa de Arroz": {
+    "categoria": "Sopas y caldos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda"
+    ],
+    "descripcion": "Sopa liviana de arroz con verduras. Apta para dieta blanda y post-quirúrgica.",
+    "ingredientes": [
+      {
+        "alimento": "ARROZ",
+        "gramos": 20,
+        "preparacion": "Sopa de Arroz"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 15,
+        "preparacion": "Sopa de Arroz"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 10,
+        "preparacion": "Sopa de Arroz"
+      },
+      {
+        "alimento": "APIO HOJAS",
+        "gramos": 5,
+        "preparacion": "Sopa de Arroz"
+      }
+    ],
+    "patologias_cuidado": [
+      "I10 - Hipertensión Arterial",
+      "I50 - Insuficiencia Cardíaca"
+    ],
+    "nota": "Preparar sin sal. Agregar sal solo si no hay restricción."
+  },
+  "Sopa de Fideo": {
+    "categoria": "Sopas y caldos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda"
+    ],
+    "descripcion": "Sopa de fideo con verduras. Fácil digestión.",
+    "ingredientes": [
+      {
+        "alimento": "FIDEO TALLARIN",
+        "gramos": 20,
+        "preparacion": "Sopa de Fideo"
+      },
+      {
+        "alimento": "TOMATE",
+        "gramos": 15,
+        "preparacion": "Sopa de Fideo"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 10,
+        "preparacion": "Sopa de Fideo"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 15,
+        "preparacion": "Sopa de Fideo"
+      }
+    ],
+    "patologias_cuidado": [
+      "K90 - Enfermedad Celíaca"
+    ],
+    "nota": "Contraindicada en celíaca. Usar fideo sin gluten si aplica."
+  },
+  "Sopa de Avena": {
+    "categoria": "Sopas y caldos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Sopa nutritiva de avena. Alto aporte de fibra y proteína.",
+    "ingredientes": [
+      {
+        "alimento": "AVENA",
+        "gramos": 20,
+        "preparacion": "Sopa de Avena"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 30,
+        "preparacion": "Sopa de Avena"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 15,
+        "preparacion": "Sopa de Avena"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 10,
+        "preparacion": "Sopa de Avena"
+      },
+      {
+        "alimento": "APIO HOJAS",
+        "gramos": 5,
+        "preparacion": "Sopa de Avena"
+      }
+    ],
+    "patologias_cuidado": [
+      "K90 - Enfermedad Celíaca"
+    ],
+    "nota": "Rica en beta-glucano. Excelente para diabetes e hipercolesterolemia."
+  },
+  "Sopa de Quinua": {
+    "categoria": "Sopas y caldos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta hipocalórica",
+      "Dieta para diabético"
+    ],
+    "descripcion": "Sopa proteica de quinua. Apta para celíacos. Alto valor nutricional.",
+    "ingredientes": [
+      {
+        "alimento": "QUINUA",
+        "gramos": 25,
+        "preparacion": "Sopa de Quinua"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 30,
+        "preparacion": "Sopa de Quinua"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 15,
+        "preparacion": "Sopa de Quinua"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 10,
+        "preparacion": "Sopa de Quinua"
+      },
+      {
+        "alimento": "TOMATE",
+        "gramos": 10,
+        "preparacion": "Sopa de Quinua"
+      }
+    ],
+    "patologias_cuidado": [],
+    "nota": "Sin gluten. Proteína completa. Ideal para desnutrición y celíaca."
+  },
+  "Caldo de Pollo": {
+    "categoria": "Sopas y caldos",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta líquida",
+      "Dieta corriente"
+    ],
+    "descripcion": "Caldo liviano de pollo. Fácil digestión. Apto post-cirugía.",
+    "ingredientes": [
+      {
+        "alimento": "POLLO CORTES",
+        "gramos": 60,
+        "preparacion": "Caldo de Pollo"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 20,
+        "preparacion": "Caldo de Pollo"
+      },
+      {
+        "alimento": "APIO HOJAS",
+        "gramos": 10,
+        "preparacion": "Caldo de Pollo"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 10,
+        "preparacion": "Caldo de Pollo"
+      },
+      {
+        "alimento": "ARROZ",
+        "gramos": 15,
+        "preparacion": "Caldo de Pollo"
+      }
+    ],
+    "patologias_cuidado": [
+      "I10 - Hipertensión Arterial"
+    ],
+    "nota": "Preparar sin sal. Retirar piel del pollo antes de cocinar."
+  },
+  "Crema de Verduras": {
+    "categoria": "Sopas y caldos",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta corriente",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Crema suave de verduras mixtas. Alta densidad de micronutrientes.",
+    "ingredientes": [
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 30,
+        "preparacion": "Crema de Verduras"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 30,
+        "preparacion": "Crema de Verduras"
+      },
+      {
+        "alimento": "ESPINACA",
+        "gramos": 20,
+        "preparacion": "Crema de Verduras"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 10,
+        "preparacion": "Crema de Verduras"
+      },
+      {
+        "alimento": "APIO HOJAS",
+        "gramos": 5,
+        "preparacion": "Crema de Verduras"
+      }
+    ],
+    "patologias_cuidado": [],
+    "nota": "Licuar y colar. Sin sal para hipertensos. Agregar leche descremada para mayor cremosidad."
+  },
+  "Sopa de Maíz": {
+    "categoria": "Sopas y caldos",
+    "dieta": [
+      "Dieta corriente"
+    ],
+    "descripcion": "Sopa tradicional boliviana de maíz con verduras.",
+    "ingredientes": [
+      {
+        "alimento": "MAIZ PELADO",
+        "gramos": 25,
+        "preparacion": "Sopa de Maíz"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 30,
+        "preparacion": "Sopa de Maíz"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 15,
+        "preparacion": "Sopa de Maíz"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 10,
+        "preparacion": "Sopa de Maíz"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2"
+    ],
+    "nota": "Moderada en diabéticos por alto índice glucémico del maíz."
+  },
+  "Falso Mondongo": {
+    "categoria": "Segundos platos",
+    "dieta": [
+      "Dieta corriente"
+    ],
+    "descripcion": "Preparación tradicional boliviana con verduras sin tripa. Rico en fibra.",
+    "ingredientes": [
+      {
+        "alimento": "MAIZ PELADO",
+        "gramos": 40,
+        "preparacion": "Falso Mondongo"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 70,
+        "preparacion": "Falso Mondongo"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 20,
+        "preparacion": "Falso Mondongo"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 15,
+        "preparacion": "Falso Mondongo"
+      },
+      {
+        "alimento": "ESPINACA",
+        "gramos": 20,
+        "preparacion": "Falso Mondongo"
+      },
+      {
+        "alimento": "ACEITE VEGETAL",
+        "gramos": 5,
+        "preparacion": "Falso Mondongo"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2",
+      "N18 - Enf. Renal Crónica"
+    ],
+    "nota": "Sin sal para hipertensos. Reducir maíz en diabéticos."
+  },
+  "Pollo al Vapor con Puré": {
+    "categoria": "Segundos platos",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta corriente",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Pollo cocido al vapor sin grasa. Acompañado de puré de papa.",
+    "ingredientes": [
+      {
+        "alimento": "POLLO CORTES",
+        "gramos": 90,
+        "preparacion": "Pollo al Vapor"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 80,
+        "preparacion": "Puré de Papa"
+      },
+      {
+        "alimento": "LECHE FLUIDA DESCREMADA",
+        "gramos": 20,
+        "preparacion": "Puré de Papa"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 30,
+        "preparacion": "Ensalada"
+      }
+    ],
+    "patologias_cuidado": [],
+    "nota": "Retirar piel. Sin sal. Puré sin mantequilla para dietas hipocalóricas."
+  },
+  "Guiso de Res con Verduras": {
+    "categoria": "Segundos platos",
+    "dieta": [
+      "Dieta corriente"
+    ],
+    "descripcion": "Guiso de carne de res magra con verduras de temporada.",
+    "ingredientes": [
+      {
+        "alimento": "BISTEC",
+        "gramos": 80,
+        "preparacion": "Guiso de Res"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 60,
+        "preparacion": "Guiso de Res"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 20,
+        "preparacion": "Guiso de Res"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 15,
+        "preparacion": "Guiso de Res"
+      },
+      {
+        "alimento": "TOMATE",
+        "gramos": 15,
+        "preparacion": "Guiso de Res"
+      },
+      {
+        "alimento": "ACEITE VEGETAL",
+        "gramos": 5,
+        "preparacion": "Guiso de Res"
+      }
+    ],
+    "patologias_cuidado": [
+      "M10 - Gota / Hiperuricemia",
+      "N18 - Enf. Renal Crónica",
+      "I10 - Hipertensión Arterial"
+    ],
+    "nota": "Usar corte magro. Sin sal para hipertensos. Evitar en gota severa."
+  },
+  "Pescado al Vapor con Arroz": {
+    "categoria": "Segundos platos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta hipocalórica",
+      "Dieta para diabético"
+    ],
+    "descripcion": "Pescado al vapor con arroz blanco. Bajo en grasa. Alto en proteína.",
+    "ingredientes": [
+      {
+        "alimento": "PESCADO",
+        "gramos": 90,
+        "preparacion": "Pescado al Vapor"
+      },
+      {
+        "alimento": "ARROZ",
+        "gramos": 50,
+        "preparacion": "Arroz Graneado"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 20,
+        "preparacion": "Ensalada"
+      },
+      {
+        "alimento": "LECHUGA",
+        "gramos": 20,
+        "preparacion": "Ensalada"
+      },
+      {
+        "alimento": "TOMATE",
+        "gramos": 15,
+        "preparacion": "Ensalada"
+      }
+    ],
+    "patologias_cuidado": [],
+    "nota": "Excelente fuente de Omega-3. Preparar al vapor o a la plancha sin aceite."
+  },
+  "Huevo Pochado con Puré": {
+    "categoria": "Segundos platos",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta corriente"
+    ],
+    "descripcion": "Huevo pochado sobre puré de papa. Económico y nutritivo.",
+    "ingredientes": [
+      {
+        "alimento": "HUEVO ENTERO -GALLINA",
+        "gramos": 50,
+        "preparacion": "Huevo Pochado"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 80,
+        "preparacion": "Puré de Papa"
+      },
+      {
+        "alimento": "LECHE FLUIDA DESCREMADA",
+        "gramos": 20,
+        "preparacion": "Puré de Papa"
+      },
+      {
+        "alimento": "ESPINACA",
+        "gramos": 30,
+        "preparacion": "Ensalada"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2",
+      "I10 - Hipertensión Arterial"
+    ],
+    "nota": "Limitar a 1 huevo/día en hipercolesterolemia. Sin sal en hipertensión."
+  },
+  "Lentejas Guisadas": {
+    "categoria": "Segundos platos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Lentejas guisadas con verduras. Alto hierro y proteína vegetal.",
+    "ingredientes": [
+      {
+        "alimento": "LENTEJA",
+        "gramos": 60,
+        "preparacion": "Lentejas Guisadas"
+      },
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 20,
+        "preparacion": "Lentejas Guisadas"
+      },
+      {
+        "alimento": "CEBOLLA CABEZA",
+        "gramos": 15,
+        "preparacion": "Lentejas Guisadas"
+      },
+      {
+        "alimento": "TOMATE",
+        "gramos": 15,
+        "preparacion": "Lentejas Guisadas"
+      },
+      {
+        "alimento": "ACEITE VEGETAL",
+        "gramos": 5,
+        "preparacion": "Lentejas Guisadas"
+      },
+      {
+        "alimento": "ARROZ",
+        "gramos": 30,
+        "preparacion": "Arroz Graneado"
+      }
+    ],
+    "patologias_cuidado": [
+      "M10 - Gota / Hiperuricemia",
+      "N18 - Enf. Renal Crónica",
+      "K58 - Síndrome de Intestino Irritable"
+    ],
+    "nota": "Excelente fuente de hierro no hemínico. Combinar con Vitamina C para mejor absorción."
+  },
+  "Leche con Avena": {
+    "categoria": "Desayunos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Desayuno clásico hospitalario. Avena cocida en leche.",
+    "ingredientes": [
+      {
+        "alimento": "AVENA",
+        "gramos": 30,
+        "preparacion": "Leche con Avena"
+      },
+      {
+        "alimento": "LECHE FLUIDA DESCREMADA",
+        "gramos": 200,
+        "preparacion": "Leche con Avena"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 10,
+        "preparacion": "Leche con Avena"
+      },
+      {
+        "alimento": "PAN BLANCO",
+        "gramos": 60,
+        "preparacion": "Pan"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2",
+      "K90 - Enfermedad Celíaca"
+    ],
+    "nota": "Reducir azúcar en diabéticos. Usar leche descremada en obesidad."
+  },
+  "Api con Pan": {
+    "categoria": "Desayunos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda"
+    ],
+    "descripcion": "Bebida tradicional boliviana de maíz morado con pan. Reconfortante.",
+    "ingredientes": [
+      {
+        "alimento": "MAIZ PELADO",
+        "gramos": 30,
+        "preparacion": "Api"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 15,
+        "preparacion": "Api"
+      },
+      {
+        "alimento": "PAN BLANCO",
+        "gramos": 60,
+        "preparacion": "Pan"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2",
+      "K90 - Enfermedad Celíaca"
+    ],
+    "nota": "Reducir azúcar en diabéticos. Sin gluten — verificar pan en celíacos."
+  },
+  "Leche con Pan": {
+    "categoria": "Desayunos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda"
+    ],
+    "descripcion": "Desayuno básico hospitalario. Leche tibia con pan blanco.",
+    "ingredientes": [
+      {
+        "alimento": "LECHE FLUIDA DESCREMADA",
+        "gramos": 200,
+        "preparacion": "Leche"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 10,
+        "preparacion": "Leche"
+      },
+      {
+        "alimento": "PAN BLANCO",
+        "gramos": 60,
+        "preparacion": "Pan"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2"
+    ],
+    "nota": "Usar leche descremada en obesidad. Reducir azúcar en diabéticos."
+  },
+  "Avena con Frutas": {
+    "categoria": "Desayunos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta hipocalórica",
+      "Dieta para diabético"
+    ],
+    "descripcion": "Avena cocida con trozos de fruta fresca. Alto en fibra.",
+    "ingredientes": [
+      {
+        "alimento": "AVENA",
+        "gramos": 30,
+        "preparacion": "Avena"
+      },
+      {
+        "alimento": "LECHE FLUIDA DESCREMADA",
+        "gramos": 150,
+        "preparacion": "Avena"
+      },
+      {
+        "alimento": "MANZANA",
+        "gramos": 80,
+        "preparacion": "Fruta"
+      },
+      {
+        "alimento": "PLATANO",
+        "gramos": 50,
+        "preparacion": "Fruta"
+      }
+    ],
+    "patologias_cuidado": [
+      "K90 - Enfermedad Celíaca",
+      "E11 - Diabetes Mellitus Tipo 2"
+    ],
+    "nota": "Usar frutas de bajo índice glucémico en diabéticos. Sin gluten — usar avena certificada."
+  },
+  "Compota de Frutas": {
+    "categoria": "Colaciones y postres",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta corriente",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Frutas cocidas en almíbar ligero. Fácil digestión.",
+    "ingredientes": [
+      {
+        "alimento": "MANZANA",
+        "gramos": 80,
+        "preparacion": "Compota"
+      },
+      {
+        "alimento": "DURAZNO",
+        "gramos": 60,
+        "preparacion": "Compota"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 10,
+        "preparacion": "Compota"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2"
+    ],
+    "nota": "Reducir o eliminar azúcar en diabéticos. Usar stevia si disponible."
+  },
+  "Mazamorra de Maíz": {
+    "categoria": "Colaciones y postres",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta corriente"
+    ],
+    "descripcion": "Postre tradicional boliviano de maíz. Fácil digestión.",
+    "ingredientes": [
+      {
+        "alimento": "MAIZ PELADO",
+        "gramos": 30,
+        "preparacion": "Mazamorra"
+      },
+      {
+        "alimento": "LECHE FLUIDA DESCREMADA",
+        "gramos": 100,
+        "preparacion": "Mazamorra"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 15,
+        "preparacion": "Mazamorra"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2",
+      "K90 - Enfermedad Celíaca"
+    ],
+    "nota": "Reducir azúcar en diabéticos."
+  },
+  "Fruta Fresca de Temporada": {
+    "categoria": "Colaciones y postres",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta hipocalórica",
+      "Dieta para diabético"
+    ],
+    "descripcion": "Porción de fruta fresca según disponibilidad. Colación saludable.",
+    "ingredientes": [
+      {
+        "alimento": "MANZANA",
+        "gramos": 120,
+        "preparacion": "Fruta fresca"
+      }
+    ],
+    "patologias_cuidado": [],
+    "nota": "Seleccionar fruta según patología. Evitar frutas muy dulces en diabéticos."
+  },
+  "Yogur Natural": {
+    "categoria": "Colaciones y postres",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Yogur natural sin azúcar. Probiótico. Colación ideal.",
+    "ingredientes": [
+      {
+        "alimento": "YOGUR VASO",
+        "gramos": 150,
+        "preparacion": "Yogur"
+      },
+      {
+        "alimento": "MANZANA",
+        "gramos": 50,
+        "preparacion": "Fruta"
+      }
+    ],
+    "patologias_cuidado": [
+      "N18 - Enf. Renal Crónica"
+    ],
+    "nota": "Excelente fuente de calcio y probióticos. Limitar en ERC."
+  },
+  "Ensalada de Verduras Cocidas": {
+    "categoria": "Ensaladas y guarniciones",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta corriente",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Mix de verduras cocidas. Bajo en calorías. Alto en micronutrientes.",
+    "ingredientes": [
+      {
+        "alimento": "ZANAHORIA",
+        "gramos": 40,
+        "preparacion": "Ensalada cocida"
+      },
+      {
+        "alimento": "REMOLACHA",
+        "gramos": 30,
+        "preparacion": "Ensalada cocida"
+      },
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 40,
+        "preparacion": "Ensalada cocida"
+      },
+      {
+        "alimento": "ESPINACA",
+        "gramos": 20,
+        "preparacion": "Ensalada cocida"
+      }
+    ],
+    "patologias_cuidado": [
+      "N18 - Enf. Renal Crónica"
+    ],
+    "nota": "Sin sal. Agregar limón para mejor absorción de hierro de espinaca."
+  },
+  "Arroz Graneado": {
+    "categoria": "Ensaladas y guarniciones",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda"
+    ],
+    "descripcion": "Arroz blanco cocido. Guarnición base hospitalaria.",
+    "ingredientes": [
+      {
+        "alimento": "ARROZ",
+        "gramos": 60,
+        "preparacion": "Arroz graneado"
+      },
+      {
+        "alimento": "ACEITE VEGETAL",
+        "gramos": 3,
+        "preparacion": "Arroz graneado"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2"
+    ],
+    "nota": "Porción moderada en diabéticos. Sin sal en hipertensos."
+  },
+  "Puré de Papa": {
+    "categoria": "Ensaladas y guarniciones",
+    "dieta": [
+      "Dieta blanda",
+      "Dieta corriente"
+    ],
+    "descripcion": "Puré suave de papa. Ideal para dieta blanda y post-cirugía.",
+    "ingredientes": [
+      {
+        "alimento": "PAPA SIN CASCARA",
+        "gramos": 100,
+        "preparacion": "Puré de papa"
+      },
+      {
+        "alimento": "LECHE FLUIDA DESCREMADA",
+        "gramos": 30,
+        "preparacion": "Puré de papa"
+      },
+      {
+        "alimento": "ACEITE VEGETAL",
+        "gramos": 3,
+        "preparacion": "Puré de papa"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2",
+      "N18 - Enf. Renal Crónica"
+    ],
+    "nota": "Sin sal. Sin mantequilla en dietas hipocalóricas."
+  },
+  "Refresco de Linaza": {
+    "categoria": "Bebidas y refrescos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta para diabético",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Refresco natural de linaza. Rico en Omega-3 y fibra soluble.",
+    "ingredientes": [
+      {
+        "alimento": "LINAZA",
+        "gramos": 15,
+        "preparacion": "Refresco de linaza"
+      },
+      {
+        "alimento": "LIMON",
+        "gramos": 20,
+        "preparacion": "Refresco de linaza"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 5,
+        "preparacion": "Refresco de linaza"
+      }
+    ],
+    "patologias_cuidado": [],
+    "nota": "Eliminar azúcar en diabéticos. Excelente para control glucémico y lipídico."
+  },
+  "Jugo de Naranja Natural": {
+    "categoria": "Bebidas y refrescos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta hipocalórica"
+    ],
+    "descripcion": "Jugo natural de naranja. Alto en Vitamina C. Potencia absorción de hierro.",
+    "ingredientes": [
+      {
+        "alimento": "NARANJA",
+        "gramos": 150,
+        "preparacion": "Jugo de naranja"
+      }
+    ],
+    "patologias_cuidado": [
+      "K21 - Reflujo Gastroesofágico",
+      "K29 - Gastritis Erreitativa"
+    ],
+    "nota": "Contraindicado en gastritis y reflujo. Ideal para anemias — tomar con comidas ricas en hierro."
+  },
+  "Api Morado": {
+    "categoria": "Bebidas y refrescos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda"
+    ],
+    "descripcion": "Bebida caliente tradicional boliviana de maíz morado. Reconfortante.",
+    "ingredientes": [
+      {
+        "alimento": "MAIZ PELADO",
+        "gramos": 25,
+        "preparacion": "Api morado"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 15,
+        "preparacion": "Api morado"
+      }
+    ],
+    "patologias_cuidado": [
+      "E11 - Diabetes Mellitus Tipo 2",
+      "K90 - Enfermedad Celíaca"
+    ],
+    "nota": "Reducir azúcar en diabéticos. Sin gluten natural."
+  },
+  "Infusión de Manzanilla": {
+    "categoria": "Bebidas y refrescos",
+    "dieta": [
+      "Dieta corriente",
+      "Dieta blanda",
+      "Dieta líquida"
+    ],
+    "descripcion": "Infusión digestiva. Antiinflamatoria y relajante. Apta para gastritis.",
+    "ingredientes": [
+      {
+        "alimento": "MANZANILLA",
+        "gramos": 3,
+        "preparacion": "Infusión"
+      },
+      {
+        "alimento": "AZUCAR",
+        "gramos": 5,
+        "preparacion": "Infusión"
+      }
+    ],
+    "patologias_cuidado": [],
+    "nota": "Sin azúcar en diabéticos. Ideal post-cirugía digestiva."
+  }
+}

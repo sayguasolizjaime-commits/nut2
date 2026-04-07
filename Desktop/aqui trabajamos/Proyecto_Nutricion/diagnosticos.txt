@@ -1,0 +1,11 @@
+Diabetes Tipo 1
+Diabetes Tipo 2
+Hipertensión Arterial
+Dislipidemia
+Obesidad Grado I
+Obesidad Grado II
+Gastritis Crónica
+Insuficiencia Renal
+Cirrosis Hepática
+Anemia Ferropénica
+Hipotiroidismo

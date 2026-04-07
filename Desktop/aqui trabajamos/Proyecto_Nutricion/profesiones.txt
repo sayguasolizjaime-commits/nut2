@@ -1,0 +1,20 @@
+Agricultor
+Comerciante
+Estudiante
+Ama de casa
+Docente
+Ingeniero
+Abogado
+Médico
+Enfermero(a)
+Contador
+Administrador
+Transportista
+Constructor / Albañil
+Obrero
+Empleado Público
+Técnico
+Artesano
+Minería
+Sin ocupación
+Jubilado

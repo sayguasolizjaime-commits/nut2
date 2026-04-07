@@ -1,0 +1,504 @@
+{
+  "plantas": [
+    {
+      "nombre": "Manzanilla",
+      "patologias_relacionadas": ["Gastritis", "Ansiedad"],
+      "tipo_impacto": "Beneficioso (Digestivo)",
+      "accion_farmaco": "Camazuleno y Bisabolol.",
+      "preparacion_y_dosis": "Infusión: 5-10g de flores por 1L de agua. Reposar 10 min. Tomar 3-6 tazas al día.",
+      "interaccion_nutri": "Sin interacciones graves.",
+      "contraindicacion": "Alergia a compuestas.",
+      "sugerencia": "Ideal para dispepsias tras comidas copiosas."
+    },
+    {
+      "nombre": "Boldo",
+      "patologias_relacionadas": ["Dislipidemias", "Hígado Graso"],
+      "tipo_impacto": "Beneficioso (Hepatoprotector)",
+      "accion_farmaco": "Boldina (alcaloide).",
+      "preparacion_y_dosis": "Infusión: 10-20g de hojas por 1L de agua. Tomar 1 taza (200ml) antes de las comidas principales.",
+      "interaccion_nutri": "Estimula sales biliares; mejora absorción de vit. liposolubles.",
+      "contraindicacion": "Obstrucción de vías biliares, embarazo.",
+      "sugerencia": "No usar por más de 4 semanas consecutivas."
+    },
+    {
+      "nombre": "Mariguana",
+      "patologias_relacionadas": ["Dolor Crónico", "Anorexia por Cáncer"],
+      "tipo_impacto": "Beneficioso (Orexigénico)",
+      "accion_farmaco": "THC y CBD (Cannabinoides).",
+      "preparacion_y_dosis": "Aceite sublingual: 2-5 gotas/8h (según concentración) o vaporización controlada.",
+      "interaccion_nutri": "Aumento marcado del apetito (hambre selectiva por carbohidratos).",
+      "contraindicacion": "Psicosis, arritmias, menores de 21 años.",
+      "sugerencia": "Controlar el 'atracón' post-consumo con snacks saludables."
+    },
+    {
+      "nombre": "Canela",
+      "patologias_relacionadas": ["Diabetes Mellitus", "Resistencia Insulina"],
+      "tipo_impacto": "Beneficioso (Hipoglucemiante)",
+      "accion_farmaco": "Polímeros de metil-hidroxichalcona.",
+      "preparacion_y_dosis": "Polvo: 1-6g al día en alimentos. Infusión: 1 rama mediana por taza de agua.",
+      "interaccion_nutri": "Mejora el metabolismo de la glucosa post-prandial.",
+      "contraindicacion": "Hepatopatías crónicas.",
+      "sugerencia": "Espolvorear en avena o fruta para reducir índice glucémico."
+    },
+    {
+      "nombre": "Cola de Caballo",
+      "patologias_relacionadas": ["Edema", "Insuficiencia Renal"],
+      "tipo_impacto": "Riesgo (Electrolitos)",
+      "accion_farmaco": "Sales de sílice y potasio.",
+      "preparacion_y_dosis": "Decocción: Hervir 30-50g de planta seca por 1L de agua durante 20 min. Máximo 2 tazas/día.",
+      "interaccion_nutri": "Antinutriente de la Tiamina (B1).",
+      "contraindicacion": "Falla renal, uso de diuréticos de asa.",
+      "sugerencia": "Uso máximo por 15 días para evitar déficit de B1."
+    },
+    {
+      "nombre": "Cúrcuma",
+      "patologias_relacionadas": ["Inflamación", "Artritis"],
+      "tipo_impacto": "Beneficioso (Antiinflamatorio)",
+      "accion_farmaco": "Curcumina.",
+      "preparacion_y_dosis": "Polvo: 1.5-3g/día mezclado con grasa (aceite oliva) y pimienta negra para absorción.",
+      "interaccion_nutri": "Inhibe absorción de Hierro; quelante de metales.",
+      "contraindicacion": "Cálculos renales de oxalato.",
+      "sugerencia": "Añadir a preparaciones al final de la cocción."
+    },
+    {
+      "nombre": "Jengibre",
+      "patologias_relacionadas": ["Náuseas", "Diabetes"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Gingeroles.",
+      "preparacion_y_dosis": "Infusión: 2g de raíz fresca en 250ml. Polvo: 500mg - 1g al día.",
+      "interaccion_nutri": "Aumenta la biodisponibilidad de ciertos fármacos.",
+      "contraindicacion": "Cálculos biliares (es colagogo).",
+      "sugerencia": "Eficaz en náuseas gestacionales (dosis bajas)."
+    },
+    {
+      "nombre": "Ginkgo Biloba",
+      "patologias_relacionadas": ["Microcirculación", "Varices"],
+      "tipo_impacto": "Riesgo (Sangrado)",
+      "accion_farmaco": "Ginkgolidos.",
+      "preparacion_y_dosis": "Extracto seco: 120-240mg al día divididos en 2 tomas.",
+      "interaccion_nutri": "Sinergia negativa con Vitamina E (riesgo hemorragia).",
+      "contraindicacion": "Uso de Aspirina, Warfarina o Clopidogrel.",
+      "sugerencia": "No consumir antes de dormir (puede causar insomnio)."
+    },
+    {
+      "nombre": "Té Verde",
+      "patologias_relacionadas": ["Obesidad", "Anemia"],
+      "tipo_impacto": "Riesgo (Absorción Hierro)",
+      "accion_farmaco": "Catequinas (EGCG).",
+      "preparacion_y_dosis": "Infusión: 2g de hojas en agua a 80°C (no hervir). Reposo 3 min.",
+      "interaccion_nutri": "Bloquea absorción de hierro no hemo hasta en un 70%.",
+      "contraindicacion": "Anemia ferropénica severa.",
+      "sugerencia": "Separar de las comidas al menos 2 horas."
+    },
+    {
+      "nombre": "Fenogreco",
+      "patologias_relacionadas": ["Diabetes", "Lactancia"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Galactomananos.",
+      "preparacion_y_dosis": "Semillas: 5-10g de semillas remojadas o molidas con las comidas.",
+      "interaccion_nutri": "Fibra soluble que reduce pico de insulina.",
+      "contraindicacion": "Alergia al maní/cacahuate.",
+      "sugerencia": "Excelente para controlar hambre persistente."
+    },
+    {
+      "nombre": "Diente de León",
+      "patologias_relacionadas": ["Edema", "Retención Sodio"],
+      "tipo_impacto": "Riesgo (Potasio)",
+      "accion_farmaco": "Lactonas sesquiterpénicas.",
+      "preparacion_y_dosis": "Infusión: 4-10g de hojas secas en 150ml de agua, 3 veces al día.",
+      "interaccion_nutri": "Aporte elevado de Potasio.",
+      "contraindicacion": "Insuficiencia renal crónica por riesgo de hiperpotasemia.",
+      "sugerencia": "Sustituye diuréticos químicos si no hay falla renal."
+    },
+    {
+      "nombre": "Ajo (Extracto)",
+      "patologias_relacionadas": ["Hipertensión", "Dislipidemia"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Alicina.",
+      "preparacion_y_dosis": "Crudo: 1-2 dientes diarios. Cápsulas: 600-900mg de extracto estandarizado.",
+      "interaccion_nutri": "Reduce síntesis endógena de colesterol.",
+      "contraindicacion": "Trastornos de coagulación.",
+      "sugerencia": "Machacar 10 min antes de consumir para activar la alicina."
+    },
+    {
+      "nombre": "Valeriana",
+      "patologias_relacionadas": ["Ansiedad", "Insomnio"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Ácido valerénico.",
+      "preparacion_y_dosis": "Extracto: 300-600mg 1 hora antes de dormir. Infusión: 2-3g de raíz.",
+      "interaccion_nutri": "Sin interacciones nutricionales importantes.",
+      "contraindicacion": "Uso de sedantes químicos.",
+      "sugerencia": "Olor fuerte característico; se recomienda en cápsulas."
+    },
+    {
+      "nombre": "Alcachofera",
+      "patologias_relacionadas": ["Hígado Graso", "Digestión"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Cinarina.",
+      "preparacion_y_dosis": "Infusión: 5g de hojas secas por taza. Extracto: 300-500mg antes de comer.",
+      "interaccion_nutri": "Favorece micción y eliminación de urea.",
+      "contraindicacion": "Lactancia (sabor amargo en leche).",
+      "sugerencia": "Aumentar ingesta hídrica durante su uso."
+    },
+    {
+      "nombre": "Cardo Mariano",
+      "patologias_relacionadas": ["Hepatitis", "Cirrosis"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Silimarina.",
+      "preparacion_y_dosis": "Extracto seco: 200-400mg al día (estandarizado al 70-80% silimarina).",
+      "interaccion_nutri": "Antioxidante hepático potente.",
+      "contraindicacion": "Hipersensibilidad a plantas asteráceas.",
+      "sugerencia": "La infusión no es efectiva porque la silimarina no es soluble en agua."
+    },
+    {
+      "nombre": "Hipérico",
+      "patologias_relacionadas": ["Depresión", "Ansiedad"],
+      "tipo_impacto": "Riesgo Crítico",
+      "accion_farmaco": "Hipericina / Hiperforina.",
+      "preparacion_y_dosis": "Extracto: 300mg/8h. Infusión: 2g de flores por taza.",
+      "interaccion_nutri": "Acelera el metabolismo de casi todos los suplementos/fármacos.",
+      "contraindicacion": "Anticonceptivos, Anticoagulantes, VIH.",
+      "sugerencia": "Evitar exposición solar (causa fotosensibilidad)."
+    },
+    {
+      "nombre": "Regaliz",
+      "patologias_relacionadas": ["Gastritis", "Hipertensión"],
+      "tipo_impacto": "Riesgo (Presión)",
+      "accion_farmaco": "Ácido glicirrícico.",
+      "preparacion_y_dosis": "Decocción: 5g de raíz por taza. Máximo 2 tazas al día.",
+      "interaccion_nutri": "Provoca retención de Na y pérdida de K.",
+      "contraindicacion": "Hipertensión arterial (sube la presión).",
+      "sugerencia": "Usar solo variedad DGL (Deglicirrizado) en hipertensos."
+    },
+    {
+      "nombre": "Sen (Hojas)",
+      "patologias_relacionadas": ["Estreñimiento Severo"],
+      "tipo_impacto": "Riesgo (Electrolitos)",
+      "accion_farmaco": "Senósidos.",
+      "preparacion_y_dosis": "Infusión corta: 1g (media cucharadita) en agua hirviendo. Tomar antes de dormir.",
+      "interaccion_nutri": "Inhibe absorción de vitaminas liposolubles.",
+      "contraindicacion": "Embarazo, dolor abdominal desconocido.",
+      "sugerencia": "Efecto a las 8-12 horas. No usar más de 5 días."
+    },
+    {
+      "nombre": "Aloe Vera",
+      "patologias_relacionadas": ["Gastritis", "Estreñimiento"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Mucílagos y Aloína.",
+      "preparacion_y_dosis": "Zumo: 50ml de gel puro de la hoja (sin la parte amarilla amarga) en ayunas.",
+      "interaccion_nutri": "Protector de la mucosa digestiva.",
+      "contraindicacion": "Colitis ulcerosa, Crohn.",
+      "sugerencia": "Asegurarse de retirar la aloína (látex amarillo) para evitar diarrea."
+    },
+    {
+      "nombre": "Espino Blanco",
+      "patologias_relacionadas": ["Arritmias", "Insuficiencia Cardiaca"],
+      "tipo_impacto": "Beneficioso (Cardiotónico)",
+      "accion_farmaco": "Flavonoides.",
+      "preparacion_y_dosis": "Infusión: 1-2g de flores por taza. Extracto: 160-900mg/día.",
+      "interaccion_nutri": "Potencia efecto de la vitamina C capilar.",
+      "contraindicacion": "Uso de digitálicos sin control.",
+      "sugerencia": "Terapia de largo plazo (mínimo 6 semanas para efecto)."
+    },
+    {
+      "nombre": "Arándano Rojo",
+      "patologias_relacionadas": ["ITU", "Cistitis"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "PAC (Proantocianidinas).",
+      "preparacion_y_dosis": "Zumo puro: 250-500ml/día. Extracto: 36mg de PAC al día.",
+      "interaccion_nutri": "Aumenta la acidez urinaria.",
+      "contraindicacion": "Cálculos de ácido úrico.",
+      "sugerencia": "Tomar zumos sin azúcar añadida para no alimentar bacterias."
+    },
+    {
+      "nombre": "Ginseng",
+      "patologias_relacionadas": ["Fatiga Crónica", "Diabetes"],
+      "tipo_impacto": "Riesgo (Nerviosismo)",
+      "accion_farmaco": "Ginsenósidos.",
+      "preparacion_y_dosis": "Decocción: 1-2g de raíz por taza. Extracto: 200mg/día.",
+      "interaccion_nutri": "Produce hipoglucemia en ayunas.",
+      "contraindicacion": "Hipertensión no controlada.",
+      "sugerencia": "Tomar por ciclos (2 meses sí, 1 mes no)."
+    },
+    {
+      "nombre": "Eucalipto",
+      "patologias_relacionadas": ["Asma", "Diabetes"],
+      "tipo_impacto": "Riesgo (Hipoglucemia)",
+      "accion_farmaco": "Eucaliptol.",
+      "preparacion_y_dosis": "Vahos/Inhalación: 3 gotas aceite esencial. Infusión: 1-2 hojas por taza.",
+      "interaccion_nutri": "Baja niveles de azúcar en sangre.",
+      "contraindicacion": "Inflamación gastrointestinal.",
+      "sugerencia": "Vigilar glucemia si el diabético está resfriado y lo consume."
+    },
+    {
+      "nombre": "Pasiflora",
+      "patologias_relacionadas": ["Ansiedad", "Insomnio"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Flavonoides (Crisina).",
+      "preparacion_y_dosis": "Infusión: 2g de planta seca por taza, 3 veces al día.",
+      "interaccion_nutri": "Ayuda en la 'hambre emocional'.",
+      "contraindicacion": "Menores de 12 años.",
+      "sugerencia": "No causa somnolencia residual al despertar."
+    },
+    {
+      "nombre": "Ortiga Verde",
+      "patologias_relacionadas": ["Anemia", "Hiperuricemia"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Minerales (Fe, Ca, Mg).",
+      "preparacion_y_dosis": "Infusión: 2 cucharaditas por taza. Consumo: Hojas cocidas como espinaca.",
+      "interaccion_nutri": "Remineralizante de alta biodisponibilidad.",
+      "contraindicacion": "Edemas por falla cardiaca.",
+      "sugerencia": "Usar guantes para recolectarla fresca."
+    },
+    {
+      "nombre": "Hierba Luisa",
+      "patologias_relacionadas": ["Gases", "Digestión"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Citral y Limoneno.",
+      "preparacion_y_dosis": "Infusión: 2-3 hojas frescas o secas por taza después de comer.",
+      "interaccion_nutri": "Sin efectos negativos.",
+      "contraindicacion": "Ninguna reportada.",
+      "sugerencia": "Sabor cítrico agradable, ideal para niños."
+    },
+    {
+      "nombre": "Menta",
+      "patologias_relacionadas": ["Colitis", "ERGE"],
+      "tipo_impacto": "Riesgo (Reflujo)",
+      "accion_farmaco": "Mentol.",
+      "preparacion_y_dosis": "Infusión: 1 cucharadita de hojas secas. Cápsulas entéricas para colon irritable.",
+      "interaccion_nutri": "Relaja esfínter esofágico (causa acidez).",
+      "contraindicacion": "Reflujo gastroesofágico (ERGE).",
+      "sugerencia": "Excelente para gases, pero no si hay acidez."
+    },
+    {
+      "nombre": "Gayuba",
+      "patologias_relacionadas": ["Infección Urinaria"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Arbutósido.",
+      "preparacion_y_dosis": "Maceración: 10g en 1L agua fría por 12h. O Infusión rápida: 2g por taza.",
+      "interaccion_nutri": "Solo funciona si la dieta es alcalina (frutas/verduras).",
+      "contraindicacion": "Embarazo (puede causar contracciones).",
+      "sugerencia": "No usar más de 7 días seguidos (toxicidad hepática)."
+    },
+    {
+      "nombre": "Sauce Blanco",
+      "patologias_relacionadas": ["Dolor Articular", "Gastritis"],
+      "tipo_impacto": "Riesgo (Gástrico)",
+      "accion_farmaco": "Salicina.",
+      "preparacion_y_dosis": "Decocción: 2-3g de corteza por taza de agua. Hervir 10 min.",
+      "interaccion_nutri": "Aumenta secreción ácida gástrica.",
+      "contraindicacion": "Aspirina, asma, úlceras.",
+      "sugerencia": "Efecto analgésico más lento que la aspirina pero más duradero."
+    },
+    {
+      "nombre": "Uña de Gato",
+      "patologias_relacionadas": ["Inflamación", "Bajas defensas"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Alcaloides.",
+      "preparacion_y_dosis": "Decocción: 1g de corteza por taza. Hervir 15 min. Tomar 2-3 tazas.",
+      "interaccion_nutri": "No tomar con antiácidos (inhiben absorción).",
+      "contraindicacion": "Terapia inmunosupresora.",
+      "sugerencia": "Útil en post-operatorio (bajo supervisión)."
+    },
+    {
+      "nombre": "Fucus",
+      "patologias_relacionadas": ["Obesidad", "Hipotiroidismo"],
+      "tipo_impacto": "Beneficioso (Saciante)",
+      "accion_farmaco": "Yodo y Alginatos.",
+      "preparacion_y_dosis": "Extracto seco: 500mg - 1g 30 min antes de la comida con 2 vasos de agua.",
+      "interaccion_nutri": "Sacia por formación de gel en el estómago.",
+      "contraindicacion": "Hipertiroidismo.",
+      "sugerencia": "Rico en minerales marinos."
+    },
+    {
+      "nombre": "Anís Verde",
+      "patologias_relacionadas": ["Gases", "Cólicos"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Anetol.",
+      "preparacion_y_dosis": "Infusión: 1 cucharadita de frutos (semillas) machacados por taza.",
+      "interaccion_nutri": "Mejora digestión de almidones.",
+      "contraindicacion": "Bebés (riesgo de toxicidad si no se controla dosis).",
+      "sugerencia": "Efecto expectorante suave secundario."
+    },
+    {
+      "nombre": "Harpaofito",
+      "patologias_relacionadas": ["Dolor Crónico", "Artritis"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Harpagósidos.",
+      "preparacion_y_dosis": "Extracto seco: 600mg - 1.2g al día repartido en tomas.",
+      "interaccion_nutri": "Mejora apetito por ser planta amarga.",
+      "contraindicacion": "Úlcera gastroduodenal.",
+      "sugerencia": "Puede tardar 2-3 semanas en mostrar efecto analgésico."
+    },
+    {
+      "nombre": "Rusco",
+      "patologias_relacionadas": ["Varices", "Hemorroides"],
+      "tipo_impacto": "Beneficioso (Circulación)",
+      "accion_farmaco": "Ruscogeninas.",
+      "preparacion_y_dosis": "Extracto: 7-11mg de ruscogeninas/día. Infusión: 3g de raíz.",
+      "interaccion_nutri": "Sin impactos negativos.",
+      "contraindicacion": "Hipertensión arterial (ligero riesgo).",
+      "sugerencia": "Combinar con ejercicio para mejorar retorno venoso."
+    },
+    {
+      "nombre": "Hinojo",
+      "patologias_relacionadas": ["Gases", "Menstruación"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Estragol.",
+      "preparacion_y_dosis": "Infusión: 1 cucharadita de semillas por taza. Tomar tras comidas.",
+      "interaccion_nutri": "Mejora la motilidad intestinal.",
+      "contraindicacion": "Cáncer de mama (efecto estrogénico leve).",
+      "sugerencia": "Excelente para reducir hinchazón abdominal."
+    },
+    {
+      "nombre": "Guaraná",
+      "patologias_relacionadas": ["Astenia", "Obesidad"],
+      "tipo_impacto": "Riesgo (Estimulante)",
+      "accion_farmaco": "Cafeína.",
+      "preparacion_y_dosis": "Polvo: 500mg - 1g al día en el desayuno. No tomar después de las 4pm.",
+      "interaccion_nutri": "Aumenta gasto calórico en reposo.",
+      "contraindicacion": "Taquicardia, Ansiedad.",
+      "sugerencia": "Efecto más sostenido que el café."
+    },
+    {
+      "nombre": "Melisa",
+      "patologias_relacionadas": ["Nerviosismo", "Colon Irritable"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Ácido rosmarínico.",
+      "preparacion_y_dosis": "Infusión: 2 cucharaditas por taza. Tomar hasta 3 veces al día.",
+      "interaccion_nutri": "Favorece relajación del músculo liso gástrico.",
+      "contraindicacion": "Hipotiroidismo.",
+      "sugerencia": "Ideal para 'dolor de estómago' por nervios."
+    },
+    {
+      "nombre": "Malva",
+      "patologias_relacionadas": ["Tos", "Estreñimiento"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Mucílagos.",
+      "preparacion_y_dosis": "Infusión: 2g de flores/hojas. Reposar 10 min.",
+      "interaccion_nutri": "Efecto prebiótico suave.",
+      "contraindicacion": "Sin interacciones conocidas.",
+      "sugerencia": "Uso seguro en pediatría y geriatría."
+    },
+    {
+      "nombre": "Milenrama",
+      "patologias_relacionadas": ["Heridas", "Falta apetito"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Azuleno.",
+      "preparacion_y_dosis": "Infusión: 1-2 cucharaditas por taza. Tomar antes de comer.",
+      "interaccion_nutri": "Estimula secreción de jugos gástricos.",
+      "contraindicacion": "Embarazo.",
+      "sugerencia": "Uso externo para cicatrizar también es efectivo."
+    },
+    {
+      "nombre": "Cáscara Sagrada",
+      "patologias_relacionadas": ["Estreñimiento Atónico"],
+      "tipo_impacto": "Riesgo (Diarrea)",
+      "accion_farmaco": "Antraquinonas.",
+      "preparacion_y_dosis": "Extracto: 200-300mg antes de dormir. Polvo: 0.5 - 2g.",
+      "interaccion_nutri": "Pérdida de potasio si se usa crónicamente.",
+      "contraindicacion": "Niños menores de 12 años.",
+      "sugerencia": "Es menos agresiva que el Sen, pero igual de delicada."
+    },
+    {
+      "nombre": "Salvia",
+      "patologias_relacionadas": ["Menopausia", "Diabetes"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Tuyonas y Polifenoles.",
+      "preparacion_y_dosis": "Infusión: 1-2g de hojas secas. Tomar 2 tazas al día.",
+      "interaccion_nutri": "Baja niveles de glucosa basal.",
+      "contraindicacion": "Lactancia (corta la producción de leche).",
+      "sugerencia": "Reduce sudoración nocturna en menopausia."
+    },
+    {
+      "nombre": "Damiana",
+      "patologias_relacionadas": ["Libido baja", "Fatiga"],
+      "tipo_impacto": "Riesgo (Hipoglucemia)",
+      "accion_farmaco": "Damianina.",
+      "preparacion_y_dosis": "Infusión: 2-4g de hojas secas por taza.",
+      "interaccion_nutri": "Interfiere con absorción de glucosa.",
+      "contraindicacion": "Diabetes (alto riesgo de choque hipoglucémico).",
+      "sugerencia": "Considerada tónico revitalizante."
+    },
+    {
+      "nombre": "Amapola",
+      "patologias_relacionadas": ["Tos", "Insomnio leve"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Readina.",
+      "preparacion_y_dosis": "Infusión: 1-2 cucharaditas de pétalos secos por taza.",
+      "interaccion_nutri": "Sin efectos nutricionales graves.",
+      "contraindicacion": "Niños menores de 2 años.",
+      "sugerencia": "Sedante muy suave, no genera adicción."
+    },
+    {
+      "nombre": "Echinacea",
+      "patologias_relacionadas": ["Infecciones", "Gripe"],
+      "tipo_impacto": "Beneficioso (Inmune)",
+      "accion_farmaco": "Polisacáridos.",
+      "preparacion_y_dosis": "Tintura: 2-5ml/3 veces al día. Cápsulas: 500mg-1g.",
+      "interaccion_nutri": "Inmunoestimulante.",
+      "contraindicacion": "Lupus, esclerosis múltiple.",
+      "sugerencia": "Tomar al primer síntoma de resfriado."
+    },
+    {
+      "nombre": "Zarzaparrilla",
+      "patologias_relacionadas": ["Acné", "Hiperuricemia"],
+      "tipo_impacto": "Beneficioso (Depurativo)",
+      "accion_farmaco": "Saponósidos.",
+      "preparacion_y_dosis": "Decocción: 2g de raíz por taza. Hervir 10 min. 3 tazas/día.",
+      "interaccion_nutri": "Favorece eliminación de toxinas nitrogenadas.",
+      "contraindicacion": "Gastritis (irritante en dosis altas).",
+      "sugerencia": "Tradicionalmente usada para 'limpiar la sangre'."
+    },
+    {
+      "nombre": "Gayuba",
+      "patologias_relacionadas": ["Infección de orina"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Arbutina.",
+      "preparacion_y_dosis": "Infusión: 1-2g por taza. No endulzar con cítricos.",
+      "interaccion_nutri": "Funciona mejor con orina de pH > 7.",
+      "contraindicacion": "Niños y embarazo.",
+      "sugerencia": "Tomar mucha agua para facilitar el arrastre bacteriano."
+    },
+    {
+      "nombre": "Olivo (Hojas)",
+      "patologias_relacionadas": ["Hipertensión", "Diabetes"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Oleuropeína.",
+      "preparacion_y_dosis": "Infusión: 10g de hojas frescas o secas por taza. 2-3 tazas al día.",
+      "interaccion_nutri": "Potente antioxidante cardiovascular.",
+      "contraindicacion": "Hipotensión.",
+      "sugerencia": "Reduce la tensión arterial sistólica y diastólica."
+    },
+    {
+      "nombre": "Ruda",
+      "patologias_relacionadas": ["Espasmos", "Parásitos"],
+      "tipo_impacto": "Riesgo Crítico (Toxicidad)",
+      "accion_farmaco": "Alcaloides y Rutina.",
+      "preparacion_y_dosis": "Infusión MUY ligera: 0.5g por taza. No sobrepasar.",
+      "interaccion_nutri": "Irritante de la mucosa intestinal.",
+      "contraindicacion": "EMBARAZO (Abortiva), niños.",
+      "sugerencia": "Uso desaconsejado por su estrecho margen de seguridad."
+    },
+    {
+      "nombre": "Hamamelis",
+      "patologias_relacionadas": ["Varices", "Hematomas"],
+      "tipo_impacto": "Beneficioso (Venotónico)",
+      "accion_farmaco": "Taninos.",
+      "preparacion_y_dosis": "Uso externo: Compresas empapadas en decocción (5g/taza).",
+      "interaccion_nutri": "No ingerir junto con suplementos de minerales.",
+      "contraindicacion": "Gastritis (si se ingiere).",
+      "sugerencia": "Muy eficaz en hemorroides externas."
+    },
+    {
+      "nombre": "Melisa",
+      "patologias_relacionadas": ["Insomnio", "Taquicardia"],
+      "tipo_impacto": "Beneficioso",
+      "accion_farmaco": "Aceite esencial citral.",
+      "preparacion_y_dosis": "Infusión: 1 cucharada de planta por taza. Tomar antes de dormir.",
+      "interaccion_nutri": "Sin efectos adversos nutricionales.",
+      "contraindicacion": "Hipotiroidismo.",
+      "sugerencia": "Combina bien con Valeriana y Pasiflora."
+    }
+  ]
+}

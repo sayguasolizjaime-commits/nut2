@@ -1,0 +1,531 @@
+{
+  "rda_por_edad_sexo": {
+    "0-6 meses": {
+      "M": {
+        "Energia": 550,
+        "Prot.": 9.1,
+        "grasas": 31,
+        "H C": 60,
+        "Fribra": 0,
+        "Ca.": 200,
+        "Fosforo": 100,
+        "Fe.": 0.27,
+        "Vit. A": 400,
+        "B1": 0.2,
+        "B2": 0.3,
+        "Niacina": 2,
+        "Vit C": 40
+      },
+      "F": {
+        "Energia": 500,
+        "Prot.": 9.1,
+        "grasas": 31,
+        "H C": 60,
+        "Fribra": 0,
+        "Ca.": 200,
+        "Fosforo": 100,
+        "Fe.": 0.27,
+        "Vit. A": 400,
+        "B1": 0.2,
+        "B2": 0.3,
+        "Niacina": 2,
+        "Vit C": 40
+      }
+    },
+    "7-12 meses": {
+      "M": {
+        "Energia": 700,
+        "Prot.": 11.0,
+        "grasas": 30,
+        "H C": 95,
+        "Fribra": 0,
+        "Ca.": 260,
+        "Fosforo": 275,
+        "Fe.": 11,
+        "Vit. A": 500,
+        "B1": 0.3,
+        "B2": 0.4,
+        "Niacina": 4,
+        "Vit C": 50
+      },
+      "F": {
+        "Energia": 650,
+        "Prot.": 11.0,
+        "grasas": 30,
+        "H C": 95,
+        "Fribra": 0,
+        "Ca.": 260,
+        "Fosforo": 275,
+        "Fe.": 11,
+        "Vit. A": 500,
+        "B1": 0.3,
+        "B2": 0.4,
+        "Niacina": 4,
+        "Vit C": 50
+      }
+    },
+    "1-3 años": {
+      "M": {
+        "Energia": 1000,
+        "Prot.": 13,
+        "grasas": 35,
+        "H C": 130,
+        "Fribra": 19,
+        "Ca.": 700,
+        "Fosforo": 460,
+        "Fe.": 7,
+        "Vit. A": 300,
+        "B1": 0.5,
+        "B2": 0.5,
+        "Niacina": 6,
+        "Vit C": 15
+      },
+      "F": {
+        "Energia": 1000,
+        "Prot.": 13,
+        "grasas": 35,
+        "H C": 130,
+        "Fribra": 19,
+        "Ca.": 700,
+        "Fosforo": 460,
+        "Fe.": 7,
+        "Vit. A": 300,
+        "B1": 0.5,
+        "B2": 0.5,
+        "Niacina": 6,
+        "Vit C": 15
+      }
+    },
+    "4-8 años": {
+      "M": {
+        "Energia": 1400,
+        "Prot.": 19,
+        "grasas": 40,
+        "H C": 130,
+        "Fribra": 25,
+        "Ca.": 1000,
+        "Fosforo": 500,
+        "Fe.": 10,
+        "Vit. A": 400,
+        "B1": 0.6,
+        "B2": 0.6,
+        "Niacina": 8,
+        "Vit C": 25
+      },
+      "F": {
+        "Energia": 1200,
+        "Prot.": 19,
+        "grasas": 40,
+        "H C": 130,
+        "Fribra": 25,
+        "Ca.": 1000,
+        "Fosforo": 500,
+        "Fe.": 10,
+        "Vit. A": 400,
+        "B1": 0.6,
+        "B2": 0.6,
+        "Niacina": 8,
+        "Vit C": 25
+      }
+    },
+    "9-13 años": {
+      "M": {
+        "Energia": 1800,
+        "Prot.": 34,
+        "grasas": 50,
+        "H C": 130,
+        "Fribra": 31,
+        "Ca.": 1300,
+        "Fosforo": 1250,
+        "Fe.": 8,
+        "Vit. A": 600,
+        "B1": 0.9,
+        "B2": 0.9,
+        "Niacina": 12,
+        "Vit C": 45
+      },
+      "F": {
+        "Energia": 1600,
+        "Prot.": 34,
+        "grasas": 45,
+        "H C": 130,
+        "Fribra": 26,
+        "Ca.": 1300,
+        "Fosforo": 1250,
+        "Fe.": 8,
+        "Vit. A": 600,
+        "B1": 0.9,
+        "B2": 0.9,
+        "Niacina": 12,
+        "Vit C": 45
+      }
+    },
+    "14-18 años": {
+      "M": {
+        "Energia": 2200,
+        "Prot.": 52,
+        "grasas": 65,
+        "H C": 130,
+        "Fribra": 38,
+        "Ca.": 1300,
+        "Fosforo": 1250,
+        "Fe.": 11,
+        "Vit. A": 900,
+        "B1": 1.2,
+        "B2": 1.3,
+        "Niacina": 16,
+        "Vit C": 75
+      },
+      "F": {
+        "Energia": 1800,
+        "Prot.": 46,
+        "grasas": 55,
+        "H C": 130,
+        "Fribra": 26,
+        "Ca.": 1300,
+        "Fosforo": 1250,
+        "Fe.": 15,
+        "Vit. A": 700,
+        "B1": 1.0,
+        "B2": 1.0,
+        "Niacina": 14,
+        "Vit C": 65
+      }
+    },
+    "19-30 años": {
+      "M": {
+        "Energia": 2500,
+        "Prot.": 56,
+        "grasas": 65,
+        "H C": 130,
+        "Fribra": 38,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 8,
+        "Vit. A": 900,
+        "B1": 1.2,
+        "B2": 1.3,
+        "Niacina": 16,
+        "Vit C": 90
+      },
+      "F": {
+        "Energia": 2000,
+        "Prot.": 46,
+        "grasas": 55,
+        "H C": 130,
+        "Fribra": 25,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 18,
+        "Vit. A": 700,
+        "B1": 1.1,
+        "B2": 1.1,
+        "Niacina": 14,
+        "Vit C": 75
+      }
+    },
+    "31-50 años": {
+      "M": {
+        "Energia": 2400,
+        "Prot.": 56,
+        "grasas": 65,
+        "H C": 130,
+        "Fribra": 38,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 8,
+        "Vit. A": 900,
+        "B1": 1.2,
+        "B2": 1.3,
+        "Niacina": 16,
+        "Vit C": 90
+      },
+      "F": {
+        "Energia": 1800,
+        "Prot.": 46,
+        "grasas": 55,
+        "H C": 130,
+        "Fribra": 25,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 18,
+        "Vit. A": 700,
+        "B1": 1.1,
+        "B2": 1.1,
+        "Niacina": 14,
+        "Vit C": 75
+      }
+    },
+    "51-70 años": {
+      "M": {
+        "Energia": 2200,
+        "Prot.": 56,
+        "grasas": 60,
+        "H C": 130,
+        "Fribra": 30,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 8,
+        "Vit. A": 900,
+        "B1": 1.2,
+        "B2": 1.3,
+        "Niacina": 16,
+        "Vit C": 90
+      },
+      "F": {
+        "Energia": 1800,
+        "Prot.": 46,
+        "grasas": 50,
+        "H C": 130,
+        "Fribra": 21,
+        "Ca.": 1200,
+        "Fosforo": 700,
+        "Fe.": 8,
+        "Vit. A": 700,
+        "B1": 1.1,
+        "B2": 1.1,
+        "Niacina": 14,
+        "Vit C": 75
+      }
+    },
+    ">70 años": {
+      "M": {
+        "Energia": 2000,
+        "Prot.": 56,
+        "grasas": 55,
+        "H C": 130,
+        "Fribra": 30,
+        "Ca.": 1200,
+        "Fosforo": 700,
+        "Fe.": 8,
+        "Vit. A": 900,
+        "B1": 1.2,
+        "B2": 1.3,
+        "Niacina": 16,
+        "Vit C": 90
+      },
+      "F": {
+        "Energia": 1600,
+        "Prot.": 46,
+        "grasas": 45,
+        "H C": 130,
+        "Fribra": 21,
+        "Ca.": 1200,
+        "Fosforo": 700,
+        "Fe.": 8,
+        "Vit. A": 700,
+        "B1": 1.1,
+        "B2": 1.1,
+        "Niacina": 14,
+        "Vit C": 75
+      }
+    },
+    "Embarazo 1er trimestre": {
+      "F": {
+        "Energia": 2100,
+        "Prot.": 71,
+        "grasas": 60,
+        "H C": 175,
+        "Fribra": 28,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 27,
+        "Vit. A": 770,
+        "B1": 1.4,
+        "B2": 1.4,
+        "Niacina": 18,
+        "Vit C": 85
+      }
+    },
+    "Embarazo 2do-3er trimestre": {
+      "F": {
+        "Energia": 2400,
+        "Prot.": 71,
+        "grasas": 65,
+        "H C": 175,
+        "Fribra": 28,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 27,
+        "Vit. A": 770,
+        "B1": 1.4,
+        "B2": 1.4,
+        "Niacina": 18,
+        "Vit C": 85
+      }
+    },
+    "Lactancia": {
+      "F": {
+        "Energia": 2500,
+        "Prot.": 71,
+        "grasas": 65,
+        "H C": 210,
+        "Fribra": 29,
+        "Ca.": 1000,
+        "Fosforo": 700,
+        "Fe.": 9,
+        "Vit. A": 1300,
+        "B1": 1.4,
+        "B2": 1.6,
+        "Niacina": 17,
+        "Vit C": 120
+      }
+    }
+  },
+  "ajustes_por_patologia": {
+    "D64 - Anemia Ferropénica": {
+      "Fe.": {
+        "ajuste": "+100%",
+        "factor": 2.0,
+        "nota": "Duplicar aporte de hierro. Priorizar hierro hemínico (carnes rojas, hígado). Agregar Vit C en misma comida."
+      },
+      "Vit C": {
+        "ajuste": "+50%",
+        "factor": 1.5,
+        "nota": "Aumentar Vit C para potenciar absorción de hierro no hemínico."
+      }
+    },
+    "E11 - Diabetes Mellitus Tipo 2": {
+      "Fribra": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Mayor fibra para control glucémico. Meta: 25-35g/día."
+      }
+    },
+    "I10 - Hipertensión Arterial": {
+      "Ca.": {
+        "ajuste": "+10%",
+        "factor": 1.1,
+        "nota": "Calcio adecuado para función vascular."
+      }
+    },
+    "N18 - Enf. Renal Crónica": {
+      "Fosforo": {
+        "ajuste": "-40%",
+        "factor": 0.6,
+        "nota": "Restricción de fósforo según estadio TFG."
+      },
+      "Ca.": {
+        "ajuste": "Individualizar",
+        "factor": 1.0,
+        "nota": "Calcio según calcemia. Riesgo de calcificación vascular."
+      }
+    },
+    "K74 - Cirrosis Hepática": {
+      "Vit C": {
+        "ajuste": "+30%",
+        "factor": 1.3,
+        "nota": "Mayor antioxidante por estrés oxidativo hepático."
+      },
+      "B1": {
+        "ajuste": "+50%",
+        "factor": 1.5,
+        "nota": "Tiamina frecuentemente deficiente en hepatopatía."
+      },
+      "B2": {
+        "ajuste": "+30%",
+        "factor": 1.3,
+        "nota": "Riboflavina comprometida por disfunción hepática."
+      }
+    },
+    "T30 - Quemaduras Graves": {
+      "Vit C": {
+        "ajuste": "+400%",
+        "factor": 5.0,
+        "nota": "500-1000mg/día para síntesis de colágeno en quemaduras."
+      },
+      "Fe.": {
+        "ajuste": "+50%",
+        "factor": 1.5,
+        "nota": "Mayor pérdida de hierro por exudado de quemaduras."
+      },
+      "Ca.": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Hipercalciuria en quemaduras extensas."
+      }
+    },
+    "F50.0 - Anorexia Nerviosa": {
+      "Ca.": {
+        "ajuste": "+30%",
+        "factor": 1.3,
+        "nota": "Riesgo alto de osteopenia/osteoporosis."
+      },
+      "Fe.": {
+        "ajuste": "+30%",
+        "factor": 1.3,
+        "nota": "Anemia frecuente por restricción alimentaria."
+      },
+      "B1": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Vigilar síndrome de realimentación: reponer tiamina primero."
+      }
+    },
+    "B20 - VIH / SIDA": {
+      "Vit C": {
+        "ajuste": "+50%",
+        "factor": 1.5,
+        "nota": "Inmunomodulador. Aumentar antioxidantes."
+      },
+      "Vit. A": {
+        "ajuste": "+30%",
+        "factor": 1.3,
+        "nota": "Déficit frecuente. Importante para inmunidad."
+      },
+      "Fe.": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Anemia frecuente en VIH/SIDA."
+      }
+    },
+    "J44 - EPOC": {
+      "Vit C": {
+        "ajuste": "+50%",
+        "factor": 1.5,
+        "nota": "Antioxidante para reducir estrés oxidativo pulmonar."
+      },
+      "Ca.": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Corticoides frecuentes → riesgo osteoporosis."
+      }
+    },
+    "M32 - Lupus Eritematoso (LES)": {
+      "Ca.": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Corticoterapia → riesgo osteoporosis."
+      },
+      "Vit C": {
+        "ajuste": "+30%",
+        "factor": 1.3,
+        "nota": "Dieta antiinflamatoria: aumentar antioxidantes."
+      }
+    },
+    "E03 - Hipotiroidismo": {
+      "Ca.": {
+        "ajuste": "+10%",
+        "factor": 1.1,
+        "nota": "Vigilar densidad ósea."
+      }
+    },
+    "G30 - Enf. de Alzheimer": {
+      "B1": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Tiamina relacionada con función cognitiva."
+      },
+      "Niacina": {
+        "ajuste": "+10%",
+        "factor": 1.1,
+        "nota": "Niacina asociada a neuroprotección."
+      },
+      "Vit C": {
+        "ajuste": "+20%",
+        "factor": 1.2,
+        "nota": "Antioxidante neuroprotector."
+      }
+    }
+  }
+}
